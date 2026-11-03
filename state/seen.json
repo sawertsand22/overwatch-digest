@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-03T13:48:13Z",
+ "last_run": "2026-11-03T22:59:19Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -230,6 +230,11 @@
    "src": "blizzard_en",
    "t": "2026-11-03T05:27:57Z",
    "title": "Feed Your Hunger in Reign of Talon – Season 5: A Grim Doctrine"
+  },
+  "blizzard:24303010": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T22:59:19Z",
+   "title": "Reign of Talon – S5 Midcycle Sets Up the Showdown"
   },
   "blizzard:24304078": {
    "src": "blizzard_en",
@@ -636,6 +641,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "All Overwatch collaborations and crossover skins (full list 2026) - Esports.gg"
   },
+  "googlenews:4b573edd1c58": {
+   "src": "googlenews",
+   "t": "2026-11-03T22:59:19Z",
+   "title": "Reign of Talon – S5 Midcycle Sets Up the Showdown - Blizzard Entertainment"
+  },
   "googlenews:4fd64dbc8636": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -695,6 +705,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Season 20: The Gift That Keeps Giving at Midcycle — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:6127f36c8c6c": {
+   "src": "googlenews",
+   "t": "2026-11-03T22:59:19Z",
+   "title": "Overwatch 2 Update 4.40 | 1.000.105 Released on November 3 - MP1st"
   },
   "googlenews:66064fa71bf6": {
    "src": "googlenews",
@@ -766,6 +781,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Step into the Spotlight — Overwatch 2 - Blizzard News"
   },
+  "googlenews:96fa8e9fa964": {
+   "src": "googlenews",
+   "t": "2026-11-03T22:59:19Z",
+   "title": "'Overwatch’s New Mythic Skin Shows Blizzard Is Finally Shaking Things Up - Polygon.com"
+  },
   "googlenews:99efe15779d9": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -805,6 +825,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch's newest Emerald rank is like a live grenade wedged between plat and diamond - PC Gamer"
+  },
+  "googlenews:9f411e2c8d6c": {
+   "src": "googlenews",
+   "t": "2026-11-03T22:59:19Z",
+   "title": "Overwatch and Stellar Blade are bringing two gaming worlds together - lnt.ma"
   },
   "googlenews:a125cc506c36": {
    "src": "googlenews",
@@ -860,6 +885,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch’s Director Explains Why The Same Few Heroes Keep Getting Skins - Kotaku"
+  },
+  "googlenews:b7317c7b67b9": {
+   "src": "googlenews",
+   "t": "2026-11-03T22:59:19Z",
+   "title": "Overwatch Mid-Season 5 Patch Notes Released With Big Tweaks - Polygon.com"
   },
   "googlenews:b8ca8929a84f": {
    "src": "googlenews",
@@ -920,6 +950,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch Spotlight: The Reign of Talon Begins - News - Blizzard Entertainment"
+  },
+  "googlenews:dc35a9ab2dfc": {
+   "src": "googlenews",
+   "t": "2026-11-03T22:59:19Z",
+   "title": "Overwatch's Director Addresses The Possibility Of PvE Story Missions Returning - TheGamer"
   },
   "googlenews:df8d38888187": {
    "src": "googlenews",
@@ -1000,6 +1035,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Patch Notes - Blizzard Entertainment"
+  },
+  "pcgamer:93d957f67853": {
+   "src": "pcgamer",
+   "t": "2026-11-03T22:59:19Z",
+   "title": "The Overwatch devs hear your complaints about skin distribution but concede that some cosmetics need to 'support the actual bottom-line business'"
   }
  },
  "version": 1
