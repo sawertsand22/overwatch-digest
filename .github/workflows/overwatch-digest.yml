@@ -1,0 +1,44 @@
+name: Overwatch digest
+
+on:
+  schedule:
+    # GitHub cron работает в UTC. 06:00 и 18:00 UTC = 09:00 и 21:00 по Москве.
+    - cron: "0 6,18 * * *"
+  workflow_dispatch: # кнопка "Run workflow" для ручного запуска
+
+permissions:
+  contents: write # коммитить state/, digests/, images/
+  issues: write # обновлять Issue со сводкой
+
+concurrency:
+  group: overwatch-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Собрать сводку
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python run.py
+
+      - name: Сохранить состояние и архив
+        run: |
+          git config user.name "overwatch-digest[bot]"
+          git config user.email "overwatch-digest@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Изменений нет — коммит не нужен."
+            exit 0
+          fi
+          git commit -m "digest: $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
