@@ -5,6 +5,9 @@ on:
     # GitHub cron работает в UTC. 06:00 и 18:00 UTC = 09:00 и 21:00 по Москве.
     - cron: "0 6,18 * * *"
   workflow_dispatch: # кнопка "Run workflow" для ручного запуска
+  push:
+    # Правка самого воркфлоу перезапускает его — удобно для проверки настроек.
+    paths: [".github/workflows/overwatch-digest.yml"]
 
 permissions:
   contents: write # коммитить state/, digests/, images/
