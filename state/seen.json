@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-03T05:27:57Z",
+ "last_run": "2026-11-03T13:48:13Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -796,6 +796,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Weekly Recall: Pick Your Topics — Overwatch 2 - Blizzard News"
   },
+  "googlenews:9d256c52a3e4": {
+   "src": "googlenews",
+   "t": "2026-11-03T13:48:13Z",
+   "title": "Fans are divided as Overwatch 2 rebrands as simply \"Overwatch,\" adds 5 new heroes and a year-long story arc - Pixelkin"
+  },
   "googlenews:9ed55ad1f27f": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -816,10 +821,20 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Maybe Overwatch PvE still has a chance - GamingTrend"
   },
+  "googlenews:aea0c264de08": {
+   "src": "googlenews",
+   "t": "2026-11-03T13:48:13Z",
+   "title": "Doomfist defeats Vendetta in new Reign of Talon cinematic - Esports.gg"
+  },
   "googlenews:afa32d8efc1e": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Why did Overwatch become free to play? Explained - Esports.gg"
+  },
+  "googlenews:b172c3bce566": {
+   "src": "googlenews",
+   "t": "2026-11-03T13:48:13Z",
+   "title": "'We’re telling a multi-faceted, fully-connected story across the entire year' — Overwatch 2 is losing the '2' when a new era of the hero shooter begins next mon"
   },
   "googlenews:b1c2ff2922a2": {
    "src": "googlenews",
