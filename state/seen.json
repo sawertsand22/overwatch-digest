@@ -1,0 +1,991 @@
+{
+ "last_run": "2026-11-03T05:27:57Z",
+ "seen": {
+  "blizzard:23784372": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Отпразднуйте шестую годовщину Overwatch!"
+  },
+  "blizzard:23785337": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Подробный обзор системы меток в Overwatch 2"
+  },
+  "blizzard:23785339": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Создание полей боя для Overwatch 2"
+  },
+  "blizzard:23787374": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Новые приключения совсем рядом: завершение 1-го этапа бета-тестирования PvP в Overwatch 2"
+  },
+  "blizzard:23787377": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Анализ результатов бета-тестирования PvP Overwatch 2: как данные и отзывы сообщества влияют на игровой баланс"
+  },
+  "blizzard:23789252": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Героями не рождаются, ими становятся: подробный обзор Соджорн"
+  },
+  "blizzard:23798985": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Добро пожаловать на первый этап бета-тестирования PvP в Overwatch 2"
+  },
+  "blizzard:23814215": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Посмотрите анонс Overwatch 2 16 июня"
+  },
+  "blizzard:23814216": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 выйдет 4 октября как бесплатная игра с постоянной поддержкой"
+  },
+  "blizzard:23814217": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Бета-тестирование Overwatch 2: часто задаваемые вопросы"
+  },
+  "blizzard:23814218": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Обзор анонса Overwatch 2"
+  },
+  "blizzard:23816408": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Новости от разработчиков Overwatch 2: работа над версиями дизайна героев"
+  },
+  "blizzard:23819784": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Воля Королевы исполнена: бета-тестирование Overwatch 2 подходит к концу"
+  },
+  "blizzard:23820711": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Дизайн, достойный монархов: взгляд за кулисы и подробности о Ее Величестве Королеве Стервятников"
+  },
+  "blizzard:23822249": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Цели бета-тестирования Overwatch 2: вовлечение сообщества в разработку"
+  },
+  "blizzard:23822251": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch x Twitch: поддержите авторов трансляций"
+  },
+  "blizzard:23823999": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Одна рука дает, другая отнимает: изменения Ангела и Мойры, внесенные после беты"
+  },
+  "blizzard:23824001": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Общий кроссплатформенный прогресс в Overwatch 2: ответы на вопросы об объединении учетных записей"
+  },
+  "blizzard:23833172": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Праздничный ремикс Overwatch: 3-я часть события уже началась!"
+  },
+  "blizzard:23837374": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "В основе любых открытий лежит воображение: анализ данных статистики бета-тестирования Overwatch 2"
+  },
+  "blizzard:23973732": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "BlizzCon 2023 tickets on-sale July 8 and July 22!"
+  },
+  "blizzard:24178650": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "BlizzCon возвращается в 2026 году"
+  },
+  "blizzard:24243449": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Nice Ice, Baby"
+  },
+  "blizzard:24245211": {
+   "src": "blizzard_ru",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "БИЛЕТЫ НА BLIZZCON 2026 РАСПРОДАНЫ!"
+  },
+  "blizzard:24259079": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Going Ultra"
+  },
+  "blizzard:24261476": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "OWCS 2026 Champions Clash Viewers Guide"
+  },
+  "blizzard:24266707": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Seriously Fun"
+  },
+  "blizzard:24266709": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch x Hatred’s Reckoning"
+  },
+  "blizzard:24266713": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Overwatch Pride Lore Guide"
+  },
+  "blizzard:24266793": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Reach Heroic Heights in Reign of Talon - Season 2: Summit"
+  },
+  "blizzard:24266795": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Director’s Take: Small Steps, Big Leaps"
+  },
+  "blizzard:24266875": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Reign of Talon - S2 Midcycle Continues the Climb"
+  },
+  "blizzard:24266876": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Answer the Call: Overwatch Heroes Join the Showdown in Fortnite’s Act III!"
+  },
+  "blizzard:24271881": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Ride in with Claws Out for Reign of Talon – Season 3: Into the Tiger’s Den"
+  },
+  "blizzard:24272107": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly-ish Recall: Always Climb, Never Fall"
+  },
+  "blizzard:24272113": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Celebrate BlizzCon® 2026 With a Hoard of In-game Items"
+  },
+  "blizzard:24281467": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Charting The Summit"
+  },
+  "blizzard:24289101": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Director's Take: Future Formats"
+  },
+  "blizzard:24290434": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "The Heat Is On in Reign of Talon - Season 3 Midcycle"
+  },
+  "blizzard:24293050": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Neon Junction AMA Recap"
+  },
+  "blizzard:24294376": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Sink your teeth into Overwatch's BlizzCon Reveals!"
+  },
+  "blizzard:24295381": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Reign of Talon – Season 4: Heroes of Busan Brings Out the Best"
+  },
+  "blizzard:24295392": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Season 4 Midcycle Takes You To The BlizzCon Stage!"
+  },
+  "blizzard:24296053": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Director's Take: Battle Pass Revamp"
+  },
+  "blizzard:24302545": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Questwatch: Bringing Our Wish To Life"
+  },
+  "blizzard:24303008": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Feed Your Hunger in Reign of Talon – Season 5: A Grim Doctrine"
+  },
+  "blizzard:24304078": {
+   "src": "blizzard_en",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly(ish) Recall: Double The Doki"
+  },
+  "dexerto:053ea857c90a": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch disables text chat in light of game-breaking bug"
+  },
+  "dexerto:058c25c2aa77": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Team Liquid drops Overwatch pro after using a racial slur: “A horrendous mistake”"
+  },
+  "dexerto:1c069ef67171": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Season 1 full patch notes: 5 new heroes, UI overhaul, huge balance changes, more"
+  },
+  "dexerto:28e497800539": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch just killed off its first hero…kind of"
+  },
+  "dexerto:2f876be78aa7": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch finally reveals Jetpack Cat backstory & players think she’s a villain"
+  },
+  "dexerto:326bd876956f": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Rush announced as Blizzard reveals new mobile game"
+  },
+  "dexerto:33ede88ec653": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch x Hello Kitty & Friends collab skins, prices, free rewards"
+  },
+  "dexerto:3c09ca0a5804": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch releasing fan-made skins that give heroes regular jobs"
+  },
+  "dexerto:486c9ff3558f": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch x NieR collaboration accidentally revealed early with first look at skins"
+  },
+  "dexerto:4c837816e4e5": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "A Fortnite x Overwatch collab is on the way according to reliable leaker"
+  },
+  "dexerto:4f104184e8d9": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Doja Cat plays Overwatch once and already likes it more than Marvel Rivals"
+  },
+  "dexerto:4f91d78094a0": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch China says players “cherish” Anran’s current look as Blizzard plans to modify her"
+  },
+  "dexerto:4fef092f217a": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "xQc claims Overwatch League was viewbotted to “hide” the real viewership"
+  },
+  "dexerto:57dd69a6aa76": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch renaissance in full effect as player count soars ahead of Season 1 launch"
+  },
+  "dexerto:5bf57741e13b": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch maps apparently coming to Fortnite after being spotted in trailer"
+  },
+  "dexerto:61cab79fed37": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch players thank Marvel Rivals for making Blizzard lock in"
+  },
+  "dexerto:61f8edda1a6e": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch’s new Jetpack Cat hero is so OP she’s getting banned"
+  },
+  "dexerto:6247aa37c57b": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch officially ditches the “2” from its name after four years"
+  },
+  "dexerto:64ecfbeae94b": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch’s “busted” new hero is insta-killing & players already want a nerf"
+  },
+  "dexerto:6888344b7800": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch dev confirms nerfs to heroes that have dominated Season 1"
+  },
+  "dexerto:6c9244993fc8": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch announces new DPS hero Sierra ahead of season 2 launch"
+  },
+  "dexerto:6d42fdc52b57": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Director says PvE could return but full campaign would need a “whole new game”"
+  },
+  "dexerto:6d7daf1dced5": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch releases “Ultra” skin bundle that costs more than GTA 6 & players are furious"
+  },
+  "dexerto:6e4741e8287c": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch devs reveal Anran redesign following appearance controversy"
+  },
+  "dexerto:7712295540c5": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "xQc once feared getting kicked out of Overwatch League “the end of his career”"
+  },
+  "dexerto:77c1003953c9": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch players think they’ve discovered identity of another new hero"
+  },
+  "dexerto:785cbea5a77e": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch x Nier Automata collab: Release date, skins, more"
+  },
+  "dexerto:7fef600fd97e": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch adds new Sub-roles that give every hero an extra ability"
+  },
+  "dexerto:836bce6dea28": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Ex-Overwatch boss Jeff Kaplan reveals he quit Blizzard over threat to blame him for 1,000 layoffs"
+  },
+  "dexerto:98132ac44fef": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Fortnite x Overwatch crossover: release date, skins & more"
+  },
+  "dexerto:9cc93c531fc9": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "All hero buffs and nerfs in Overwatch Season 1"
+  },
+  "dexerto:a4d8164ef082": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch’s new hero turns the game into Mario Kart with high speed races"
+  },
+  "dexerto:a55b84832b18": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch ends Stadium mode support after just over a year"
+  },
+  "dexerto:ab952552c7a1": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch reveals five new heroes all arriving at the same time"
+  },
+  "dexerto:ad5c341460ee": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch devs agree to redesign Anran after streamer voicing her calls out “Ozempic Chic”"
+  },
+  "dexerto:aea293b48873": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch player sets up PC inside grocery store to play as Lifeweaver"
+  },
+  "dexerto:af91fb37e1fa": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Official Overwatch survey reveals Blizzard is looking into One Piece, Elden Ring & Resident Evil collabs"
+  },
+  "dexerto:b3404f007cb7": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch devs explain surprising reason heroes have been getting hotter"
+  },
+  "dexerto:b467f50a1601": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch’s payload just got a major change and it’s punishing sneaky players"
+  },
+  "dexerto:c898f1e9b872": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch players praise new feature that refunds rank lost against cheaters"
+  },
+  "dexerto:d1bb81b65b02": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 mid-Season 20 update: Patch notes, Doomfist Mythic & more"
+  },
+  "dexerto:d73d4b3f5c98": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Ex-Overwatch director Jeff Kaplan completely avoids OW content for his “own psyche”"
+  },
+  "dexerto:d9674be51298": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch creator debuts Wild West shooter as first game since leaving Blizzard"
+  },
+  "dexerto:da616b339c6f": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Jeff Kaplan says his new game would need “eight billion players” to go free-to-play"
+  },
+  "dexerto:dda6eb27ea10": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch’s mysterious new dog has players hoping for Jetpack Cat rival"
+  },
+  "dexerto:e214d7798aea": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Diablo 4 adds Overwatch skins and it’s dividing fan bases for completely different reasons"
+  },
+  "dexerto:e35d28a1c98b": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch teams up with Japan bullet train to offer commuters exclusive merch"
+  },
+  "dexerto:e9b490d206b1": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 ban wave cleans up lobbies but leaves legit players furious"
+  },
+  "dexerto:ede468c5c973": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "xQc already has one major concern about Overwatch Rush"
+  },
+  "dexerto:f9cdb863a6de": {
+   "src": "dexerto",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch devs confirm major jump bug won’t be fixed for weeks"
+  },
+  "googlenews:00b3932f48e4": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: New Hero Numbers — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:06702361be5e": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Is Finally Getting a Dedicated Switch 2 Edition This Spring - IGN"
+  },
+  "googlenews:078f8a121fdf": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Gameplay Trailer 2 - Blizzard Entertainment"
+  },
+  "googlenews:089fcf8de698": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 is dead, long live Overwatch - Shacknews"
+  },
+  "googlenews:090b2535dc8e": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Seriously Fun — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:090dd327d2e1": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch on Switch 2 works as intended now, but it's still a few big updates away from greatness - Eurogamer.net"
+  },
+  "googlenews:09d9f8699831": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Jetpack Cat, The Purr-fect Storm - Blizzard News"
+  },
+  "googlenews:0ceebfe99f93": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Season 20 patch notes: Vendetta, Hazard, and Baptiste buffs galore! - Esports.gg"
+  },
+  "googlenews:11609dfafd8a": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Feed Your Hunger in Reign of Talon – Season 5: A Grim Doctrine - News - Blizzard Entertainment"
+  },
+  "googlenews:1192648b29b2": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Give the Gift of Vengeance in Season 20: Vendetta — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:1304125fa537": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Goodbye Overwatch 2, Hello Overwatch: The Story-Driven, \"Forever Game\" Blizzard Promised Is Finally Here - GameSpot"
+  },
+  "googlenews:17ec5cb66565": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch hits major milestone as Steam reviews shoot up to 'mixed' - Polygon.com"
+  },
+  "googlenews:18131d43f4a0": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "What We Played – Overwatch, Sons of Sparta & Planet of Lana 2 - TheSixthAxis"
+  },
+  "googlenews:1e2fd5fc147e": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Tuesday Marks the End of an Era for ‘Overwatch’ - Men's Journal"
+  },
+  "googlenews:200bfb4f9dae": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Season 4: Heroes of Busan Update Live on Aug. 11 via Patch 4.34/1.000.098 - MP1st"
+  },
+  "googlenews:21f0179d8177": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch - Esports World Cup"
+  },
+  "googlenews:22d7d7c572be": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Is Ditching the '2' Amid Launch of 'New, Story-Driven Era' With 10 New Heroes - IGN"
+  },
+  "googlenews:243ae6a7f6db": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Director's Take: Battle Pass Revamp — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:27b1fcb166fa": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "“Overwatch” Turns 10… And It Is Finally Good Again - The Observer"
+  },
+  "googlenews:28833457c44c": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 New Hero: Everything We Know About Mauga - IMDb"
+  },
+  "googlenews:29ca893fe515": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "‘Overwatch 2’ Rebrands to ‘Overwatch’ as New Year-Long Story Arc Launches (Gaming News Roundup) - Variety"
+  },
+  "googlenews:2bc635c6bb42": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 drops the 2 and goes back to being Overwatch as Blizzard launches its biggest update ever - PC Gamer"
+  },
+  "googlenews:2bec545f25d2": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch is getting a huge overhaul — 5 new heroes are coming next week - Windows Central"
+  },
+  "googlenews:2e47bc730008": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Receives Minor Update on May 26 as Version 4.28/1.000.092 - MP1st"
+  },
+  "googlenews:3557004310a0": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "New Overwatch 2 Spotlight event arrives February 4! - Esports.gg"
+  },
+  "googlenews:35db20efe652": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Reach Heroic Heights in Reign of Talon - Season 2: Summit - Blizzard Entertainment"
+  },
+  "googlenews:35ec9ef713aa": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Director's Take: Sunrise in Gibraltar — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:3b8f5f8e8396": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Up To The Challenge - Blizzard Entertainment"
+  },
+  "googlenews:3bf502ce5035": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Tier List Season 5 (5v5): Best Heroes Ranked - Mobalytics"
+  },
+  "googlenews:468899ef9224": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "All Overwatch collaborations and crossover skins (full list 2026) - Esports.gg"
+  },
+  "googlenews:4fd64dbc8636": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Nintendo Switch 2 launch stumbles and now Blizzard is rushing to fix it - TweakTown"
+  },
+  "googlenews:523e07039295": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Is Now Just 'Overwatch' as Blizzard Promises Big Narrative Arc, Ten New Heroes, and More - MMORPG.com"
+  },
+  "googlenews:58c679e9982c": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Is Dropping The 2 And Launching A New \"Story-Driven Era\" - GameSpot"
+  },
+  "googlenews:591a6c6be653": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Jeff Kaplan calls Overwatch 2 \"one of my biggest mistakes,\" names devs who \"didn't like PvP\" and executive pressure as reasons for troubled development - GamesR"
+  },
+  "googlenews:593d63875148": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch’s Huge New Sombra Rework Is 10x Better Than Expected - Polygon.com"
+  },
+  "googlenews:5a20d9bd9f27": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Best Overwatch hero counters (2026): Who counters every hero - Esports.gg"
+  },
+  "googlenews:5b4bf8f596a4": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Winston’s copypasta fever might be my favorite celebration of Overwatch - Yahoo Tech"
+  },
+  "googlenews:5b7620e57188": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch has a Nintendo Switch 2 edition, and it works now - Gaming Nexus"
+  },
+  "googlenews:5b9eb90cc31d": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch October 20 2026 Patch Notes - IGN"
+  },
+  "googlenews:5bb202373c04": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch drops the \"2\" in major franchise turning point - Esports.gg"
+  },
+  "googlenews:5c96d3341a1f": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch will drop the '2' as Jetpack Cat and four other heroes arrive on February 10 - Engadget"
+  },
+  "googlenews:610572c6e5a8": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Season 20: The Gift That Keeps Giving at Midcycle — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:66064fa71bf6": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Team Liquid VS Spacestation Gaming ➥ Overwatch ➥ Betting Tips, Stream, LiveScore, Results on EGW☕ - EGamersWorld"
+  },
+  "googlenews:7406dadbac19": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly(ish) Recall: Double The Doki — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:7a65d8803aa2": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 is being rebranded after Blizzard experiences regrets of how the sequel went - Popverse"
+  },
+  "googlenews:7bb31a815143": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch’s Switch 2 Version Literally Made Me Recoil With Disgust - Kotaku"
+  },
+  "googlenews:7e3571e93c82": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 teases five new stories - Esports.gg"
+  },
+  "googlenews:86ffa51e2410": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Update 4.30/1.000.094 Ushers in Season 3 on June 16 - MP1st"
+  },
+  "googlenews:88443e849f3f": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Rebrand Pays Off With Its Best Quarter Since Overwatch 2 Launched - VICE"
+  },
+  "googlenews:8a5d812c12b0": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Blizzard’s Overwatch (previously known as Overwatch 2) is now available as 60fps Switch 2 version - Video Games Chronicle"
+  },
+  "googlenews:8d1f470f7285": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch tier list for Season 3 - PC Gamer"
+  },
+  "googlenews:90f1c771b95a": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Thanks For The (Aim) Assist — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:911d88ad0c62": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Is Done As Title Returns To Being Just Overwatch - Bleeding Cool News"
+  },
+  "googlenews:920988ccfd8f": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "York Named SUN Overwatch 2 Player of the Week - Keiser University Athletics"
+  },
+  "googlenews:96b5adbb0d84": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Director's Take: Call and Response — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:96bf84568644": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Step into the Spotlight — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:99efe15779d9": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Travels Back in Time to Just Go By Overwatch - Restart.run"
+  },
+  "googlenews:9a8161ffd9bc": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 is back in the EWC Lineup for 2025 - Esports World Cup"
+  },
+  "googlenews:9a9b4359644a": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch's Switch 2 version is currently missing the promised 60 FPS boost, but a fix is coming soon - Eurogamer.net"
+  },
+  "googlenews:9b56888dad25": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch director \"would never discount\" the return of PvE content, but another story-driven campaign would need a \"whole new game\" - GamesRadar+"
+  },
+  "googlenews:9b89ce93596b": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "I Played the 5 New Overwatch Heroes Dropping Next Week. Check Out the Gameplay - CNET"
+  },
+  "googlenews:9bf054743836": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Pick Your Topics — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:9ed55ad1f27f": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch's newest Emerald rank is like a live grenade wedged between plat and diamond - PC Gamer"
+  },
+  "googlenews:a125cc506c36": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Drops The 2 , Is Just Overwatch Again - Kotaku"
+  },
+  "googlenews:a7e140bf6254": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Thanks For The (Aim) Assist - Blizzard Entertainment"
+  },
+  "googlenews:ad2f45c56d7a": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Maybe Overwatch PvE still has a chance - GamingTrend"
+  },
+  "googlenews:afa32d8efc1e": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Why did Overwatch become free to play? Explained - Esports.gg"
+  },
+  "googlenews:b1c2ff2922a2": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Blizzard explains why it's dropping the 2 from Overwatch 2 - Polygon.com"
+  },
+  "googlenews:b1e772541b4b": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Blizzard says its new Overwatch rebrand isn’t “us trying to admit there was a failure”, but instead proving they’ve made a “forever game” - FRVR"
+  },
+  "googlenews:b2da1b4bb472": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Nintendo Switch 2 Port Review - Nintendo Insider"
+  },
+  "googlenews:b5d1e0cc22ac": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch - Blizzard Entertainment"
+  },
+  "googlenews:b6a07e68840b": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch’s Director Explains Why The Same Few Heroes Keep Getting Skins - Kotaku"
+  },
+  "googlenews:b8ca8929a84f": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 Is Just 'Overwatch' Again And Five New Heroes Arrive Next Week - Game Informer"
+  },
+  "googlenews:b951608298c9": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 drops ‘2’ as year-long narrative arc begins with 10 new heroes; coming to Switch 2 this spring - Gematsu"
+  },
+  "googlenews:bc148090b720": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Season 5 Tier List - IGN"
+  },
+  "googlenews:bc4479be9da4": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2's Showdown Shuffle creates more frustration than fun - GamingTrend"
+  },
+  "googlenews:bee40b7ea2d8": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Director's Take: Future Formats — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:bf216d236245": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Season 5 Team Drives: All rewards, Fame bonuses, and more - Esports.gg"
+  },
+  "googlenews:c34e9f388666": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Opinion: The “Overwatch” name change is (probably) a good idea - The Wood Word"
+  },
+  "googlenews:cb780fb918ed": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch 2 ranks explained: Tiers and ranking system breakdown - Esports Insider"
+  },
+  "googlenews:ce7005c97da0": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch x Hatred’s Reckoning — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:cf3121feb5c7": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Well, Kind Of — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:d08b2f86328b": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "While You Weren’t Watching, Overwatch Put Its Crown Back On - Kotaku"
+  },
+  "googlenews:dbb1bd346a8a": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Spotlight: The Reign of Talon Begins - News - Blizzard Entertainment"
+  },
+  "googlenews:df8d38888187": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Let's Break It Down! — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:e0166d58aa82": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Blizzard Unveils Major 2026 Plans For Overwatch 2, Including A Slight Name Change - Pure Xbox"
+  },
+  "googlenews:e18bbedcadd7": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch's latest anniversary mode brings back pre-Overwatch 2 6v6 and I have to admit, I missed it - PC Gamer"
+  },
+  "googlenews:e2fd8961eead": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Gets New Vampire-Inspired Support Hero, Map, and Big Character Reworks - IGN"
+  },
+  "googlenews:e6cb49369149": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "The Real Reason Overwatch 2 Was Rebranded, Explained - SVG"
+  },
+  "googlenews:e8605ce32c63": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Going Ultra — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:e97a8172099b": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Might Get More Small PvE Experiences, Campaign Would Need “a Whole New Game” - GamingBolt"
+  },
+  "googlenews:ed1c79c0d5dc": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Ride in with Claws Out for Reign of Talon – Season 3: Into the Tiger’s Den - Blizzard Entertainment"
+  },
+  "googlenews:f291eb05e820": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Yearly Recall: 2025 and Beyond — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:f2f348450826": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Sink your teeth into Overwatch's BlizzCon Reveals! - Blizzard Entertainment"
+  },
+  "googlenews:f55edea9ffba": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Weekly Recall: Charting The Summit - Blizzard Entertainment"
+  },
+  "googlenews:f6530c84f12a": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Director’s Take: Small Steps, Big Leaps — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:f6892c3c7cc7": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "After 10 Years, Overwatch Has Changed Me Almost as Much as Itself - CNET"
+  },
+  "googlenews:f9e1ecfa4c59": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Overwatch Spotlight: Everything We Saw In Its Biggest Update Ever - Kotaku"
+  },
+  "googlenews:fca6c1b99ebb": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Blizzard renames Overwatch 2 to Overwatch, 4 years after deciding Overwatch was Overwatch 2, because \"Overwatch is more than just a digit: it's a living univers"
+  },
+  "googlenews:ffba36a33c62": {
+   "src": "googlenews",
+   "t": "2026-11-03T05:27:57Z",
+   "title": "Patch Notes - Blizzard Entertainment"
+  }
+ },
+ "version": 1
+}
