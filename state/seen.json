@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-04T13:56:23Z",
+ "last_run": "2026-11-04T23:21:48Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -536,6 +536,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Weekly Recall: Jetpack Cat, The Purr-fect Storm - Blizzard News"
   },
+  "googlenews:0c299c9ed8c1": {
+   "src": "googlenews",
+   "t": "2026-11-04T23:21:48Z",
+   "title": "Matching the Midseason of Darkness, 'Overwatch x Eve Protocol' Released - 게임메카"
+  },
   "googlenews:0ceebfe99f93": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -696,6 +701,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch Tier List Season 5 (5v5): Best Heroes Ranked - Mobalytics"
   },
+  "googlenews:41eb25feeb58": {
+   "src": "googlenews",
+   "t": "2026-11-04T23:21:48Z",
+   "title": "Stellar Blade's Eve and Friends Infiltrate Overwatch in All-New Crossover - Push Square"
+  },
   "googlenews:44a412c51970": {
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
@@ -850,6 +860,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch 2 teases five new stories - Esports.gg"
+  },
+  "googlenews:832e9c441ce5": {
+   "src": "googlenews",
+   "t": "2026-11-04T23:21:48Z",
+   "title": "Aspiring to be Yourself with Grandma — Overwatch 2 - Blizzard News"
   },
   "googlenews:85af921a9aeb": {
    "src": "googlenews",
