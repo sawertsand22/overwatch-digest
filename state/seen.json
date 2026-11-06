@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-05T14:14:03Z",
+ "last_run": "2026-11-06T13:54:02Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -566,6 +566,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Goodbye Overwatch 2, Hello Overwatch: The Story-Driven, \"Forever Game\" Blizzard Promised Is Finally Here - GameSpot"
   },
+  "googlenews:1375e2632965": {
+   "src": "googlenews",
+   "t": "2026-11-06T13:54:02Z",
+   "title": "Overwatch November 5 2026 Patch Notes - IGN"
+  },
   "googlenews:14329a9c8caa": {
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
@@ -835,6 +840,11 @@
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
    "title": "Media Gallery - Blizzard Entertainment"
+  },
+  "googlenews:72b215359408": {
+   "src": "googlenews",
+   "t": "2026-11-06T13:54:02Z",
+   "title": "The Overwatch devs hear your complaints about skin distribution but concede that some cosmetics need to 'support the actual bottom-line business' - PC Gamer"
   },
   "googlenews:7406dadbac19": {
    "src": "googlenews",
@@ -1210,6 +1220,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "While You Weren’t Watching, Overwatch Put Its Crown Back On - Kotaku"
+  },
+  "googlenews:d11ee40215d2": {
+   "src": "googlenews",
+   "t": "2026-11-06T13:54:02Z",
+   "title": "Overwatch All That Follows story recap: New Talon heroes, Vendetta's fate, and Reaper's redemption - Esports.gg"
   },
   "googlenews:d4ef41a2395a": {
    "src": "googlenews",
