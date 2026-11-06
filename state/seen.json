@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-06T13:54:02Z",
+ "last_run": "2026-11-06T22:50:21Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -895,6 +895,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch Rebrand Pays Off With Its Best Quarter Since Overwatch 2 Launched - VICE"
+  },
+  "googlenews:8a23395857d9": {
+   "src": "googlenews",
+   "t": "2026-11-06T22:50:21Z",
+   "title": "Overwatch Has Just Copied Marvel Rivals' Homework Yet Again - OpenCritic"
   },
   "googlenews:8a5d812c12b0": {
    "src": "googlenews",
