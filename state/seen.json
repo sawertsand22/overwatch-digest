@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-07T21:35:07Z",
+ "last_run": "2026-11-08T12:56:04Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -1055,6 +1055,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Weekly Recall: Thanks For The (Aim) Assist - Blizzard Entertainment"
+  },
+  "googlenews:ab86962fe265": {
+   "src": "googlenews",
+   "t": "2026-11-08T12:56:04Z",
+   "title": "Hero Statistics - Blizzard Entertainment"
   },
   "googlenews:ac18764c1344": {
    "src": "googlenews",
