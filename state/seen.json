@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-10T14:30:21Z",
+ "last_run": "2026-11-10T22:57:02Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -240,6 +240,11 @@
    "src": "blizzard_en",
    "t": "2026-11-03T05:27:57Z",
    "title": "Weekly(ish) Recall: Double The Doki"
+  },
+  "blizzard:24316733": {
+   "src": "blizzard_en",
+   "t": "2026-11-10T22:57:02Z",
+   "title": "Director’s Take: 5v5 and 6v6, Better Together"
   },
   "dexerto:053ea857c90a": {
    "src": "dexerto",
@@ -821,6 +826,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch will drop the '2' as Jetpack Cat and four other heroes arrive on February 10 - Engadget"
   },
+  "googlenews:607204ebffbf": {
+   "src": "googlenews",
+   "t": "2026-11-10T22:57:02Z",
+   "title": "Director’s Take: 5v5 and 6v6, Better Together - Blizzard Entertainment"
+  },
   "googlenews:610572c6e5a8": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -1116,6 +1126,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Blizzard says its new Overwatch rebrand isn’t “us trying to admit there was a failure”, but instead proving they’ve made a “forever game” - FRVR"
   },
+  "googlenews:b2842ea3457f": {
+   "src": "googlenews",
+   "t": "2026-11-10T22:57:02Z",
+   "title": "Overwatch brings back 6v6 role-queue following player feedback - Video Games Chronicle"
+  },
   "googlenews:b2da1b4bb472": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -1221,6 +1236,11 @@
    "t": "2026-11-05T14:14:03Z",
    "title": "Overwatch Season 5 Midseason Update Goes Live November 3rd - games.gg"
   },
+  "googlenews:ca69330b892d": {
+   "src": "googlenews",
+   "t": "2026-11-10T22:57:02Z",
+   "title": "Overwatch Hero List: All 54 Heroes by Role and Sub-Role - The Loadout"
+  },
   "googlenews:cb780fb918ed": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -1250,6 +1270,11 @@
    "src": "googlenews",
    "t": "2026-11-06T13:54:02Z",
    "title": "Overwatch All That Follows story recap: New Talon heroes, Vendetta's fate, and Reaper's redemption - Esports.gg"
+  },
+  "googlenews:d246f0872384": {
+   "src": "googlenews",
+   "t": "2026-11-10T22:57:02Z",
+   "title": "Overwatch Brings Back 6v6 Role Queue in a Four-Week Competitive Mini Season for Season 6 - TalkEsport"
   },
   "googlenews:d4ef41a2395a": {
    "src": "googlenews",
@@ -1300,6 +1325,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch's latest anniversary mode brings back pre-Overwatch 2 6v6 and I have to admit, I missed it - PC Gamer"
+  },
+  "googlenews:e2dfc9b61de9": {
+   "src": "googlenews",
+   "t": "2026-11-10T22:57:02Z",
+   "title": "Overwatch brings back 6v6 Role Queue for a four-week Competitive test in Season 6 - Inven Global"
   },
   "googlenews:e2fd8961eead": {
    "src": "googlenews",
