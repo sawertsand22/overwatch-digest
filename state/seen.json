@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-10T01:17:00Z",
+ "last_run": "2026-11-10T14:30:21Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -835,6 +835,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Team Liquid VS Spacestation Gaming ➥ Overwatch ➥ Betting Tips, Stream, LiveScore, Results on EGW☕ - EGamersWorld"
+  },
+  "googlenews:6d508e7a8ebb": {
+   "src": "googlenews",
+   "t": "2026-11-10T14:30:21Z",
+   "title": "So Far, ‘Overwatch 2’ Only Makes the Biggest Problems With ‘Overwatch’ Worse - VICE"
   },
   "googlenews:6d843eda718e": {
    "src": "googlenews",
