@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-10T22:57:02Z",
+ "last_run": "2026-11-11T13:45:30Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -940,6 +940,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch tier list for Season 3 - PC Gamer"
+  },
+  "googlenews:8d95ba394a10": {
+   "src": "googlenews",
+   "t": "2026-11-11T13:45:30Z",
+   "title": "Console Aim Assist vs PC Precision: Why Overwatch 2 Players Keep Fighting About It - 2oceansvibe News"
   },
   "googlenews:8fe62502b7f0": {
    "src": "googlenews",
