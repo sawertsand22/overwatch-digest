@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-12T00:13:16Z",
+ "last_run": "2026-11-12T14:48:34Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -616,6 +616,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch 2 Season 4: Heroes of Busan Update Live on Aug. 11 via Patch 4.34/1.000.098 - MP1st"
   },
+  "googlenews:209666322d43": {
+   "src": "googlenews",
+   "t": "2026-11-12T14:48:34Z",
+   "title": "Overwatch Brings Back the 6v6 Role Queue Mode in a 4-Week Competitive Mini Season - 80 Level"
+  },
   "googlenews:21f0179d8177": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -625,6 +630,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch 2 Is Ditching the '2' Amid Launch of 'New, Story-Driven Era' With 10 New Heroes - IGN"
+  },
+  "googlenews:2323427d1c4c": {
+   "src": "googlenews",
+   "t": "2026-11-12T14:48:34Z",
+   "title": "Console Aim Assist vs PC Precision: Why Overwatch 2 Players Keep Fighting About It - 2oceansvibe News"
   },
   "googlenews:243ae6a7f6db": {
    "src": "googlenews",
@@ -1071,6 +1081,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch 2 Drops The 2 , Is Just Overwatch Again - Kotaku"
   },
+  "googlenews:a28f4249be85": {
+   "src": "googlenews",
+   "t": "2026-11-12T14:48:34Z",
+   "title": "Overwatch 2 Spotlight: A New Era of Innovation and Excitement - Blizzard News"
+  },
   "googlenews:a3c39dc47319": {
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
@@ -1410,6 +1425,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Sink your teeth into Overwatch's BlizzCon Reveals! - Blizzard Entertainment"
+  },
+  "googlenews:f4a0e0a5346b": {
+   "src": "googlenews",
+   "t": "2026-11-12T14:48:34Z",
+   "title": "Overwatch 2 developer blog: Season 1 updates with new executive producer, Jared Neuss - News - Blizzard Entertainment"
   },
   "googlenews:f55edea9ffba": {
    "src": "googlenews",
