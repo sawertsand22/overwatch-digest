@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-12T14:48:34Z",
+ "last_run": "2026-11-12T23:19:02Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -521,6 +521,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Gameplay Trailer 2 - Blizzard Entertainment"
   },
+  "googlenews:07c2690e72e2": {
+   "src": "googlenews",
+   "t": "2026-11-12T23:19:02Z",
+   "title": "Jeff Kaplan Says He Fought Blizzard Executives Over Announcing Overwatch 2 Too Early - SSBCrack"
+  },
   "googlenews:089fcf8de698": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -651,6 +656,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch 2 New Hero: Everything We Know About Mauga - IMDb"
   },
+  "googlenews:293cbf203fa8": {
+   "src": "googlenews",
+   "t": "2026-11-12T23:19:02Z",
+   "title": "Overwatch Adds a 6v6 Role Queue Competitive Mode for the First Four Weeks of Season 6 - gHacks"
+  },
   "googlenews:29ca893fe515": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -730,6 +740,11 @@
    "src": "googlenews",
    "t": "2026-11-04T23:21:48Z",
    "title": "Stellar Blade's Eve and Friends Infiltrate Overwatch in All-New Crossover - Push Square"
+  },
+  "googlenews:430986504c60": {
+   "src": "googlenews",
+   "t": "2026-11-12T23:19:02Z",
+   "title": "Jeff Kaplan says there was ‘constant fighting’ between him and Blizzard years before he left - Video Games Chronicle"
   },
   "googlenews:44a412c51970": {
    "src": "googlenews",
@@ -1241,6 +1256,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch Season 5 Team Drives: All rewards, Fame bonuses, and more - Esports.gg"
   },
+  "googlenews:bf6ba6e12d5f": {
+   "src": "googlenews",
+   "t": "2026-11-12T23:19:02Z",
+   "title": "Jeff Kaplan Blames Overwatch 2’s Messy Reveal On Blizzard Hubris: ‘You Guys Are F*cking Idiots’ - Kotaku"
+  },
   "googlenews:c34e9f388666": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -1395,6 +1415,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Weekly Recall: Going Ultra — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:e8a47c9cb704": {
+   "src": "googlenews",
+   "t": "2026-11-12T23:19:02Z",
+   "title": "Director's Take: Opening up the conversation on 5v5 and 6v6 - Blizzard Entertainment"
   },
   "googlenews:e97a8172099b": {
    "src": "googlenews",
