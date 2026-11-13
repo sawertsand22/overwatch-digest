@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-12T23:19:02Z",
+ "last_run": "2026-11-13T14:08:25Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -821,6 +821,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch’s Huge New Sombra Rework Is 10x Better Than Expected - Polygon.com"
   },
+  "googlenews:59abcc4b596b": {
+   "src": "googlenews",
+   "t": "2026-11-13T14:08:25Z",
+   "title": "Overwatch Hudson: Abilities, Release Date & First Look - The Game Haus"
+  },
   "googlenews:5a166bb5b77e": {
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
@@ -905,6 +910,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Weekly(ish) Recall: Double The Doki — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:79d6c9328a5c": {
+   "src": "googlenews",
+   "t": "2026-11-13T14:08:25Z",
+   "title": "Overwatch is adding 6v6 role queue to its Competitive play: 'We've realised that there doesn't have to be a winner between 5v5 and 6v6' - PC Gamer"
   },
   "googlenews:7a65d8803aa2": {
    "src": "googlenews",
@@ -995,6 +1005,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "York Named SUN Overwatch 2 Player of the Week - Keiser University Athletics"
+  },
+  "googlenews:939c6564ddd7": {
+   "src": "googlenews",
+   "t": "2026-11-13T14:08:25Z",
+   "title": "Jeff Kaplan: 'Constant Fighting' With Blizzard Execs - Tbreak UAE"
   },
   "googlenews:96122ac41145": {
    "src": "googlenews",
@@ -1266,6 +1281,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Opinion: The “Overwatch” name change is (probably) a good idea - The Wood Word"
   },
+  "googlenews:c4071ceef543": {
+   "src": "googlenews",
+   "t": "2026-11-13T14:08:25Z",
+   "title": "\"You Guys Are F*cking Idiots\": Jeff Kaplan Recalls Chaotic Overwatch 2 Reveal - 80 Level"
+  },
   "googlenews:c5e9cd0fd084": {
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
@@ -1280,6 +1300,11 @@
    "src": "googlenews",
    "t": "2026-11-05T14:14:03Z",
    "title": "Overwatch Season 5 Midseason Update Goes Live November 3rd - games.gg"
+  },
+  "googlenews:c7d733e91396": {
+   "src": "googlenews",
+   "t": "2026-11-13T14:08:25Z",
+   "title": "Overwatch confirms its next playable hero Hudson is now Damage, not Support - GosuGamers"
   },
   "googlenews:ca69330b892d": {
    "src": "googlenews",

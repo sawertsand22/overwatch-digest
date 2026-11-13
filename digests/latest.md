@@ -1,32 +1,37 @@
-**Сформировано:** 12.11.2026 23:19 UTC · новых материалов: 4 · найдено всего: 167
+**Сформировано:** 13.11.2026 14:08 UTC · новых материалов: 5 · найдено всего: 169
 
 ### Главное
-- [Overwatch Adds a 6v6 Role Queue Competitive Mode for the First Four Weeks of Season 6 - gHacks](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0hEamYwVU9ZaWlKNy1MSUVWR2FEaTBRWWNKQnlwbWhEMmZNNXJhTzVNclN4LVpxc1JhQVlJV21TYm9od2t0RmtfTnkxSjNGMlhTYnFQb3JPRzJLYkhyUmlMeXQ4U3RWYzU4VWRsNklGbDV3amhVVEY4aVI0QUZndFFnRzVMLXE0T1J5TGlqejljUVd6TnpKcExQbHFTZURDYkZIYnJXVnF0enluYlQ2Z1d4b3BjUGJyVXllcg?oc=5)
-- [Jeff Kaplan says there was ‘constant fighting’ between him and Blizzard years before he left - Video Games Chronicle](https://news.google.com/rss/articles/CBMizAFBVV95cUxPdHRpeFlyUHlpU0JfV2hOUVJlcVRjTVBwazdiVFV4eGxudWNxelh2UXJsOVJXVjlxYnFzRWcxeFE1VDFmVTd3Z2ZUcGFlclZXRWUydWEyMkVOdzNYUWhKMFZVWnUxaW5ZbEUtWkpkaTlJZnd4a2NoN1RieG1vNE50Y1hsUzRrbjVPeVJYbHUwNGktc0gxa0dlN3loOTJiOWl6TWtLeUxRdERLU2Z1cWUtbFZhc2VoUFpSTVJULVc5TDdfODk4bU94SXhmQ2I?oc=5)
-- [Jeff Kaplan Says He Fought Blizzard Executives Over Announcing Overwatch 2 Too Early - SSBCrack](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmdXaEJGZE9zQzExVDlSQUhkNE1zcGctRWRScVJ0THZOZThGT3Awbll1YnJpMUN1VzRkZTFiak5lR1RBcnRoLWZULW40aHFIUDFzQnJMVXB4aUxoeVp1cld0YWlicVVoeWFTcDhvU0RVcVZST040dFJxSVpCcHl4Q3BRZEs5V1V6R2RVNWdBa1V2VE92VGdtRDFjV09XVnQ4V2NPSGN6Y3dPOWppVDN4SA?oc=5)
+- [Overwatch confirms its next playable hero Hudson is now Damage, not Support - GosuGamers](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0Nla0ZMa2U5Z0wxa3FxZ0FvRXRYRUVEbkJmanlySnlPb21KTGcxYWJjZC16czIzMXphMDBjTngtRi1LUVY0bGdLODJDTFBfeDhJNlJ4QmI1VW1MNEg1RW9WdjVIbmpIYTg0SVVISlQ4MU9uUThrWnJiNTZTWlMwcnZMRGVvd29FTzN1WGp2UXM4SDFPNXBESTUweVk3ZVRYcU5DMTJXdXFadDk5a3pUSWh0V1cxck1NUXowSjZQUGprbnc5?oc=5)
+- ["You Guys Are F*cking Idiots": Jeff Kaplan Recalls Chaotic Overwatch 2 Reveal - 80 Level](https://news.google.com/rss/articles/CBMingFBVV95cUxNZnNqd1JmeXE5RUcySjFGZ3JVOHA3UEsxY1VwMXIzY1MxdzFVR1F0VlNYSGQzbTJoWGxzV3dhUVpOUkU3c1JpbHJ3UTFXeVFSWW9uVzRwd2dtZllkYlpfNnF2cU96cEJLYzg4R2dXMThfR1ZqX05wS0lvbGdsNnNyOEllRE1rQnROb3lQdktiRHQzVkRRV0NBSDQ5dDd4QQ?oc=5)
+- [Jeff Kaplan: 'Constant Fighting' With Blizzard Execs - Tbreak UAE](https://news.google.com/rss/articles/CBMid0FVX3lxTE14SVEwdElFOS1NN1dJVUgyM3VBbzl6X3prOWZaQTNPemNHQWp0ZUtqRkJud29XOVhCSTBBM2hWVHg3M1hJZmszVVhXdmxBUW11TWlVLTFONFkxWnJETGpnSUUwSXY4Q0gtVGFmeWkwWk1tX3JHdm1v?oc=5)
 
-## 📅 Сезоны, события, патчи
+## 🆕 Герои
 
-### [Overwatch Adds a 6v6 Role Queue Competitive Mode for the First Four Weeks of Season 6 - gHacks](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0hEamYwVU9ZaWlKNy1MSUVWR2FEaTBRWWNKQnlwbWhEMmZNNXJhTzVNclN4LVpxc1JhQVlJV21TYm9od2t0RmtfTnkxSjNGMlhTYnFQb3JPRzJLYkhyUmlMeXQ4U3RWYzU4VWRsNklGbDV3amhVVEY4aVI0QUZndFFnRzVMLXE0T1J5TGlqejljUVd6TnpKcExQbHFTZURDYkZIYnJXVnF0enluYlQ2Z1d4b3BjUGJyVXllcg?oc=5)
-Overwatch Adds a 6v6 Role Queue Competitive Mode for the First Four Weeks of Season 6 gHacks
+### [Overwatch confirms its next playable hero Hudson is now Damage, not Support - GosuGamers](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0Nla0ZMa2U5Z0wxa3FxZ0FvRXRYRUVEbkJmanlySnlPb21KTGcxYWJjZC16czIzMXphMDBjTngtRi1LUVY0bGdLODJDTFBfeDhJNlJ4QmI1VW1MNEg1RW9WdjVIbmpIYTg0SVVISlQ4MU9uUThrWnJiNTZTWlMwcnZMRGVvd29FTzN1WGp2UXM4SDFPNXBESTUweVk3ZVRYcU5DMTJXdXFadDk5a3pUSWh0V1cxck1NUXowSjZQUGprbnc5?oc=5)
+Overwatch confirms its next playable hero Hudson is now Damage, not Support GosuGamers
 
-<sub>`Google News` · 12.11.2026</sub>
+<sub>`Google News` · 13.11.2026</sub>
 
 ## 📰 Прочие новости
 
-### [Jeff Kaplan says there was ‘constant fighting’ between him and Blizzard years before he left - Video Games Chronicle](https://news.google.com/rss/articles/CBMizAFBVV95cUxPdHRpeFlyUHlpU0JfV2hOUVJlcVRjTVBwazdiVFV4eGxudWNxelh2UXJsOVJXVjlxYnFzRWcxeFE1VDFmVTd3Z2ZUcGFlclZXRWUydWEyMkVOdzNYUWhKMFZVWnUxaW5ZbEUtWkpkaTlJZnd4a2NoN1RieG1vNE50Y1hsUzRrbjVPeVJYbHUwNGktc0gxa0dlN3loOTJiOWl6TWtLeUxRdERLU2Z1cWUtbFZhc2VoUFpSTVJULVc5TDdfODk4bU94SXhmQ2I?oc=5)
-Jeff Kaplan says there was ‘constant fighting’ between him and Blizzard years before he left Video Games Chronicle
+### ["You Guys Are F*cking Idiots": Jeff Kaplan Recalls Chaotic Overwatch 2 Reveal - 80 Level](https://news.google.com/rss/articles/CBMingFBVV95cUxNZnNqd1JmeXE5RUcySjFGZ3JVOHA3UEsxY1VwMXIzY1MxdzFVR1F0VlNYSGQzbTJoWGxzV3dhUVpOUkU3c1JpbHJ3UTFXeVFSWW9uVzRwd2dtZllkYlpfNnF2cU96cEJLYzg4R2dXMThfR1ZqX05wS0lvbGdsNnNyOEllRE1rQnROb3lQdktiRHQzVkRRV0NBSDQ5dDd4QQ?oc=5)
+"You Guys Are F*cking Idiots": Jeff Kaplan Recalls Chaotic Overwatch 2 Reveal 80 Level
+
+<sub>`Google News` · 13.11.2026</sub>
+
+### [Jeff Kaplan: 'Constant Fighting' With Blizzard Execs - Tbreak UAE](https://news.google.com/rss/articles/CBMid0FVX3lxTE14SVEwdElFOS1NN1dJVUgyM3VBbzl6X3prOWZaQTNPemNHQWp0ZUtqRkJud29XOVhCSTBBM2hWVHg3M1hJZmszVVhXdmxBUW11TWlVLTFONFkxWnJETGpnSUUwSXY4Q0gtVGFmeWkwWk1tX3JHdm1v?oc=5)
+Jeff Kaplan: 'Constant Fighting' With Blizzard Execs Tbreak UAE
+
+<sub>`Google News` · 13.11.2026</sub>
+
+### [Overwatch Hudson: Abilities, Release Date & First Look - The Game Haus](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUG45MXBKRHlKLUNfU1lUX216NzVDaE80WTFldlpJTXBPSDBIU2t1RE5HMmFEV0RxWkV3a2ZncE0tcTNpdDllTlJXWk5GVlAxSURlVE1ORFBMdU8zTkpyVFh1MGd2YkxXTHJPNHF4eEhPTjh3alhQd1FfMlNyVWdnc0M5WFIyM2k3YjZNVHNWZUluTGdlak1tWG56WGE?oc=5)
+Overwatch Hudson: Abilities, Release Date & First Look The Game Haus
 
 <sub>`Google News` · 12.11.2026</sub>
 
-### [Jeff Kaplan Says He Fought Blizzard Executives Over Announcing Overwatch 2 Too Early - SSBCrack](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmdXaEJGZE9zQzExVDlSQUhkNE1zcGctRWRScVJ0THZOZThGT3Awbll1YnJpMUN1VzRkZTFiak5lR1RBcnRoLWZULW40aHFIUDFzQnJMVXB4aUxoeVp1cld0YWlicVVoeWFTcDhvU0RVcVZST040dFJxSVpCcHl4Q3BRZEs5V1V6R2RVNWdBa1V2VE92VGdtRDFjV09XVnQ4V2NPSGN6Y3dPOWppVDN4SA?oc=5)
-Jeff Kaplan Says He Fought Blizzard Executives Over Announcing Overwatch 2 Too Early SSBCrack
+### [Overwatch is adding 6v6 role queue to its Competitive play: 'We've realised that there doesn't have to be a winner between 5v5 and 6v6' - PC Gamer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaDVVZzVxS2JUMHNESVFvaVZjNFFOQm54dlBTV3BCREFwRU03SmYxV2FWdTRwb3RLcmtlR2ZrMVJHZDZYd0dhd3ozck1Tc21DU2drQ1FadXlJa0tIa0NaejVnRXFJV3pNZUtOQTcyVmU2UksydjFWSWk3eU15b21YanNrazlqUkNrcTdLcTlhdVhkMDc1Ulh0eHJVVUNwa0g1Z29uUktwZkNBLWRkcndrZ2R6dDJlVDF4aWhFR2tzOU9XLXRpZ3ZrWjhTakNmU2JtUGhaXzRMcC12Tm5oZk1hV3prT240ZGZpTkQ5cWVDZWIxUEEwMm5ieQ?oc=5)
+Overwatch is adding 6v6 role queue to its Competitive play: 'We've realised that there doesn't have to be a winner between 5v5 and 6v6' PC Gamer
 
-<sub>`Google News` · 12.11.2026</sub>
-
-### [Jeff Kaplan Blames Overwatch 2’s Messy Reveal On Blizzard Hubris: ‘You Guys Are F*cking Idiots’ - Kotaku](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUVhjUmdKRS11NF95Q2l3a3NFNnRUNldJVEpkQllHZ0phak4tMVFOcHdZdDdhSjQyVHl2dzdZMElKTlRwbHB2cnVSSVpOSk10bW5GSXd6UzV1S2NoUl9lWXhtdEZ3Wmh3N0xrNnVaWWdMcWk0S0J3NmdnQTRrbDBHVFFzdDVodzNsY0hBYUhNWWo?oc=5)
-Jeff Kaplan Blames Overwatch 2’s Messy Reveal On Blizzard Hubris: ‘You Guys Are F*cking Idiots’ Kotaku
-
-<sub>`Google News` · 12.11.2026</sub>
+<sub>`Google News` · 11.11.2026</sub>
 
 <sub>🤖 Собирается автоматически · архив: `digests/`</sub>
