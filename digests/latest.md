@@ -1,37 +1,53 @@
-**Сформировано:** 13.11.2026 14:08 UTC · новых материалов: 5 · найдено всего: 169
+**Сформировано:** 13.11.2026 23:21 UTC · новых материалов: 7 · найдено всего: 176
 
 ### Главное
-- [Overwatch confirms its next playable hero Hudson is now Damage, not Support - GosuGamers](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0Nla0ZMa2U5Z0wxa3FxZ0FvRXRYRUVEbkJmanlySnlPb21KTGcxYWJjZC16czIzMXphMDBjTngtRi1LUVY0bGdLODJDTFBfeDhJNlJ4QmI1VW1MNEg1RW9WdjVIbmpIYTg0SVVISlQ4MU9uUThrWnJiNTZTWlMwcnZMRGVvd29FTzN1WGp2UXM4SDFPNXBESTUweVk3ZVRYcU5DMTJXdXFadDk5a3pUSWh0V1cxck1NUXowSjZQUGprbnc5?oc=5)
-- ["You Guys Are F*cking Idiots": Jeff Kaplan Recalls Chaotic Overwatch 2 Reveal - 80 Level](https://news.google.com/rss/articles/CBMingFBVV95cUxNZnNqd1JmeXE5RUcySjFGZ3JVOHA3UEsxY1VwMXIzY1MxdzFVR1F0VlNYSGQzbTJoWGxzV3dhUVpOUkU3c1JpbHJ3UTFXeVFSWW9uVzRwd2dtZllkYlpfNnF2cU96cEJLYzg4R2dXMThfR1ZqX05wS0lvbGdsNnNyOEllRE1rQnROb3lQdktiRHQzVkRRV0NBSDQ5dDd4QQ?oc=5)
-- [Jeff Kaplan: 'Constant Fighting' With Blizzard Execs - Tbreak UAE](https://news.google.com/rss/articles/CBMid0FVX3lxTE14SVEwdElFOS1NN1dJVUgyM3VBbzl6X3prOWZaQTNPemNHQWp0ZUtqRkJud29XOVhCSTBBM2hWVHg3M1hJZmszVVhXdmxBUW11TWlVLTFONFkxWnJETGpnSUUwSXY4Q0gtVGFmeWkwWk1tX3JHdm1v?oc=5)
+- [Blizzard responds to disappointed Overwatch fans after new hero reveal - Polygon.com](https://news.google.com/rss/articles/CBMifkFVX3lxTFBrMldIYl84MmZPVDZtdG1xeU9VWXZWN2dKOVBFYVZPeDFCWG9rLVNnc0JOZTdPTzJ1V0hQdHNFeG9SSndIQ3JoQUg5aVQ0ZW0yeTFOYkt5M0FVMW45VjZyM1ZSaC1RNE9xTTVjTmhsb3VzODRMY3JvRUVuSnF1QQ?oc=5)
+- [Fortnite x Overwatch Leak: Kiriko and Widowmaker or Juno Skins - EGamersWorld](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHlUQTJpR0pqbGF1SWtDdTNMQTVtVDE2Y1BsWFU5UFhESmdIakNkMUViQVdDMThYZXFiWkdKVkxBd2NLOWNDVXFmM2c4VUlFZWNrSE1VTGJyYWdpUUlmWkZENm9nOE4zVU1zTWl0YjhfZXl4c055MWVjZ1NYWWIxalU3YWIwZU9qaUNWNDZlOWlzWC1ONnViMmp0elZXRHdiMnU1OXZ1Wks?oc=5)
+- [Overwatch 2 Season 6 Hudson Is a Damage Hero, and Some Players Wanted Support - Happy Gamer](https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdW4ycWt3d2JCbkdEQWsyUERwOEZoSzVvaF85dzJ5U0xRNnU1LV9Oc2tOVDZyX2NsN1BNV3Q3RXVOeWpqaUtuck5JbVJGbHA3VHNYVG9TSWFyaGxyZ09RQk91WUdWWkVZaXBtNTRVWFVPME1lWURtYmJwV19acjQ?oc=5)
 
 ## 🆕 Герои
 
-### [Overwatch confirms its next playable hero Hudson is now Damage, not Support - GosuGamers](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0Nla0ZMa2U5Z0wxa3FxZ0FvRXRYRUVEbkJmanlySnlPb21KTGcxYWJjZC16czIzMXphMDBjTngtRi1LUVY0bGdLODJDTFBfeDhJNlJ4QmI1VW1MNEg1RW9WdjVIbmpIYTg0SVVISlQ4MU9uUThrWnJiNTZTWlMwcnZMRGVvd29FTzN1WGp2UXM4SDFPNXBESTUweVk3ZVRYcU5DMTJXdXFadDk5a3pUSWh0V1cxck1NUXowSjZQUGprbnc5?oc=5)
-Overwatch confirms its next playable hero Hudson is now Damage, not Support GosuGamers
+### [Blizzard responds to disappointed Overwatch fans after new hero reveal - Polygon.com](https://news.google.com/rss/articles/CBMifkFVX3lxTFBrMldIYl84MmZPVDZtdG1xeU9VWXZWN2dKOVBFYVZPeDFCWG9rLVNnc0JOZTdPTzJ1V0hQdHNFeG9SSndIQ3JoQUg5aVQ0ZW0yeTFOYkt5M0FVMW45VjZyM1ZSaC1RNE9xTTVjTmhsb3VzODRMY3JvRUVuSnF1QQ?oc=5)
+Blizzard responds to disappointed Overwatch fans after new hero reveal Polygon.com
 
 <sub>`Google News` · 13.11.2026</sub>
+
+## 🎨 Скины и косметика
+
+### [Fortnite x Overwatch Leak: Kiriko and Widowmaker or Juno Skins - EGamersWorld](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHlUQTJpR0pqbGF1SWtDdTNMQTVtVDE2Y1BsWFU5UFhESmdIakNkMUViQVdDMThYZXFiWkdKVkxBd2NLOWNDVXFmM2c4VUlFZWNrSE1VTGJyYWdpUUlmWkZENm9nOE4zVU1zTWl0YjhfZXl4c055MWVjZ1NYWWIxalU3YWIwZU9qaUNWNDZlOWlzWC1ONnViMmp0elZXRHdiMnU1OXZ1Wks?oc=5)
+Fortnite x Overwatch Leak: Kiriko and Widowmaker or Juno Skins EGamersWorld
+
+<sub>`Google News` · 13.11.2026</sub>
+
+## 📅 Сезоны, события, патчи
+
+### [Overwatch 2 Season 6 Hudson Is a Damage Hero, and Some Players Wanted Support - Happy Gamer](https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdW4ycWt3d2JCbkdEQWsyUERwOEZoSzVvaF85dzJ5U0xRNnU1LV9Oc2tOVDZyX2NsN1BNV3Q3RXVOeWpqaUtuck5JbVJGbHA3VHNYVG9TSWFyaGxyZ09RQk91WUdWWkVZaXBtNTRVWFVPME1lWURtYmJwV19acjQ?oc=5)
+Overwatch 2 Season 6 Hudson Is a Damage Hero, and Some Players Wanted Support Happy Gamer
+
+<sub>`Google News` · 13.11.2026</sub>
+
+### [Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'](https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/)
+Well that certainly clears things up.
+
+<img src="../images/2026-11-13/overwatch-s-creative-director-accidental-3717d4.png" width="520" alt="">
+
+<sub>`PC Gamer` · 13.11.2026</sub>
 
 ## 📰 Прочие новости
 
-### ["You Guys Are F*cking Idiots": Jeff Kaplan Recalls Chaotic Overwatch 2 Reveal - 80 Level](https://news.google.com/rss/articles/CBMingFBVV95cUxNZnNqd1JmeXE5RUcySjFGZ3JVOHA3UEsxY1VwMXIzY1MxdzFVR1F0VlNYSGQzbTJoWGxzV3dhUVpOUkU3c1JpbHJ3UTFXeVFSWW9uVzRwd2dtZllkYlpfNnF2cU96cEJLYzg4R2dXMThfR1ZqX05wS0lvbGdsNnNyOEllRE1rQnROb3lQdktiRHQzVkRRV0NBSDQ5dDd4QQ?oc=5)
-"You Guys Are F*cking Idiots": Jeff Kaplan Recalls Chaotic Overwatch 2 Reveal 80 Level
+### [Diablo 4 May Have Crushed Overwatch 2, According to Former Dev - OpenCritic](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXBiQXpqXzhIWjdsRG96cmp0bE1jaGhISzFVUjlRMmtfWGE1WENrOFB6d2lWNXJ3M3Vhb25LTkY4N05uVmJ3X0RWbVVCMURzRnFlQkZDWVNrb3BOTHRPUnoycTg2TUFWY0c2Z2dIYnRuZTdTQ3NTR2pBYjhDRXFTS3JNWVhNYWpiX2NRN0JwSFNMdkVzRnYtSDNndw?oc=5)
+Diablo 4 May Have Crushed Overwatch 2, According to Former Dev OpenCritic
 
 <sub>`Google News` · 13.11.2026</sub>
 
-### [Jeff Kaplan: 'Constant Fighting' With Blizzard Execs - Tbreak UAE](https://news.google.com/rss/articles/CBMid0FVX3lxTE14SVEwdElFOS1NN1dJVUgyM3VBbzl6X3prOWZaQTNPemNHQWp0ZUtqRkJud29XOVhCSTBBM2hWVHg3M1hJZmszVVhXdmxBUW11TWlVLTFONFkxWnJETGpnSUUwSXY4Q0gtVGFmeWkwWk1tX3JHdm1v?oc=5)
-Jeff Kaplan: 'Constant Fighting' With Blizzard Execs Tbreak UAE
+### [Game Mess Mornings 11/13/2026 - Giant Bomb](https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTliZWYxaFpzNnAtdWhGSzhnSldVWHZHUlhPRnRYNlA0cUtqT1pUUk94ZFRVSWNQeGJTeEZ0T0xFYU10bDk5c29VY1JsZWtXUEFwWDVPOVRtVlViS1gzMl9MMS1uYTNGYU9RSFo3eVdiMVktaWR1eV9sRXRYYkNRTGNOWQ?oc=5)
+Game Mess Mornings 11/13/2026 Giant Bomb
 
 <sub>`Google News` · 13.11.2026</sub>
 
-### [Overwatch Hudson: Abilities, Release Date & First Look - The Game Haus](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUG45MXBKRHlKLUNfU1lUX216NzVDaE80WTFldlpJTXBPSDBIU2t1RE5HMmFEV0RxWkV3a2ZncE0tcTNpdDllTlJXWk5GVlAxSURlVE1ORFBMdU8zTkpyVFh1MGd2YkxXTHJPNHF4eEhPTjh3alhQd1FfMlNyVWdnc0M5WFIyM2k3YjZNVHNWZUluTGdlak1tWG56WGE?oc=5)
-Overwatch Hudson: Abilities, Release Date & First Look The Game Haus
+### [Diablo 4 May Have Crushed Overwatch 2, According to Former Dev - GameRant](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmlmRzNWeXZwdkJOYmpNRDN1X2NKbGJiSkJJaVpvU3VfTm44MnlwX0w4c3pqN2tScEZRbS05cEozM1pfamp4T09ZYlFtNFczQThDUDJaSXMtSVBMTjNYV0FaZmhSQ1JoTDNhZHFlMkFWQ19wUGtRMjVLelBfODRtRg?oc=5)
+Diablo 4 May Have Crushed Overwatch 2, According to Former Dev GameRant
 
-<sub>`Google News` · 12.11.2026</sub>
-
-### [Overwatch is adding 6v6 role queue to its Competitive play: 'We've realised that there doesn't have to be a winner between 5v5 and 6v6' - PC Gamer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaDVVZzVxS2JUMHNESVFvaVZjNFFOQm54dlBTV3BCREFwRU03SmYxV2FWdTRwb3RLcmtlR2ZrMVJHZDZYd0dhd3ozck1Tc21DU2drQ1FadXlJa0tIa0NaejVnRXFJV3pNZUtOQTcyVmU2UksydjFWSWk3eU15b21YanNrazlqUkNrcTdLcTlhdVhkMDc1Ulh0eHJVVUNwa0g1Z29uUktwZkNBLWRkcndrZ2R6dDJlVDF4aWhFR2tzOU9XLXRpZ3ZrWjhTakNmU2JtUGhaXzRMcC12Tm5oZk1hV3prT240ZGZpTkQ5cWVDZWIxUEEwMm5ieQ?oc=5)
-Overwatch is adding 6v6 role queue to its Competitive play: 'We've realised that there doesn't have to be a winner between 5v5 and 6v6' PC Gamer
-
-<sub>`Google News` · 11.11.2026</sub>
+<sub>`Google News` · 13.11.2026</sub>
 
 <sub>🤖 Собирается автоматически · архив: `digests/`</sub>

@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-13T14:08:25Z",
+ "last_run": "2026-11-13T23:21:50Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -726,6 +726,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Director's Take: Sunrise in Gibraltar — Overwatch 2 - Blizzard News"
   },
+  "googlenews:36e1c4d0c122": {
+   "src": "googlenews",
+   "t": "2026-11-13T23:21:50Z",
+   "title": "Diablo 4 May Have Crushed Overwatch 2, According to Former Dev - GameRant"
+  },
   "googlenews:3b8f5f8e8396": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -735,6 +740,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch Tier List Season 5 (5v5): Best Heroes Ranked - Mobalytics"
+  },
+  "googlenews:3e73fc1ff79b": {
+   "src": "googlenews",
+   "t": "2026-11-13T23:21:50Z",
+   "title": "Overwatch 2 Season 6 Hudson Is a Damage Hero, and Some Players Wanted Support - Happy Gamer"
   },
   "googlenews:41eb25feeb58": {
    "src": "googlenews",
@@ -880,6 +890,16 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Team Liquid VS Spacestation Gaming ➥ Overwatch ➥ Betting Tips, Stream, LiveScore, Results on EGW☕ - EGamersWorld"
+  },
+  "googlenews:66849a985387": {
+   "src": "googlenews",
+   "t": "2026-11-13T23:21:50Z",
+   "title": "Game Mess Mornings 11/13/2026 - Giant Bomb"
+  },
+  "googlenews:6688e040589b": {
+   "src": "googlenews",
+   "t": "2026-11-13T23:21:50Z",
+   "title": "Diablo 4 May Have Crushed Overwatch 2, According to Former Dev - OpenCritic"
   },
   "googlenews:6d508e7a8ebb": {
    "src": "googlenews",
@@ -1136,6 +1156,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Weekly Recall: Thanks For The (Aim) Assist - Blizzard Entertainment"
   },
+  "googlenews:a86012ed694d": {
+   "src": "googlenews",
+   "t": "2026-11-13T23:21:50Z",
+   "title": "Fortnite x Overwatch Leak: Kiriko and Widowmaker or Juno Skins - EGamersWorld"
+  },
   "googlenews:ab86962fe265": {
    "src": "googlenews",
    "t": "2026-11-08T12:56:04Z",
@@ -1250,6 +1275,11 @@
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
    "title": "Overwatch 2 Early Impressions: I’m Obsessed Again - CNET"
+  },
+  "googlenews:bbd3e2a69897": {
+   "src": "googlenews",
+   "t": "2026-11-13T23:21:50Z",
+   "title": "Get Powered Up in Overwatch 2 - Season 17! - Blizzard News"
   },
   "googlenews:bc148090b720": {
    "src": "googlenews",
@@ -1416,6 +1446,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch Gets New Vampire-Inspired Support Hero, Map, and Big Character Reworks - IGN"
   },
+  "googlenews:e307120792b3": {
+   "src": "googlenews",
+   "t": "2026-11-13T23:21:50Z",
+   "title": "Blizzard responds to disappointed Overwatch fans after new hero reveal - Polygon.com"
+  },
   "googlenews:e4e311c9b64d": {
    "src": "googlenews",
    "t": "2026-11-05T14:14:03Z",
@@ -1550,6 +1585,11 @@
    "src": "pcgamer",
    "t": "2026-11-03T22:59:19Z",
    "title": "The Overwatch devs hear your complaints about skin distribution but concede that some cosmetics need to 'support the actual bottom-line business'"
+  },
+  "pcgamer:a4d90632fba8": {
+   "src": "pcgamer",
+   "t": "2026-11-13T23:21:50Z",
+   "title": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'"
   }
  },
  "version": 1
