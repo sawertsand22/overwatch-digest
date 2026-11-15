@@ -1,5 +1,13 @@
-**Сформировано:** 14.11.2026 22:05 UTC · новых материалов: 0 · найдено всего: 175
+**Сформировано:** 15.11.2026 13:38 UTC · новых материалов: 1 · найдено всего: 167
 
-_Новых материалов за период не найдено. Следующая проверка — через 12 часов._
+### Главное
+- [Fortnite Leak Points to Kiriko and Widowmaker in Overwatch Collab Part 2 - Happy Gamer](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjQweXFYYjBzbEdQREJjT01xMWMyVUswNERicnBodjJKNFkzTTh6eWlaelZ6czJyaExaV2N1UkJZbzZ2V1hkSGIxM1JJeHpValFzQTFsY251Ti1mYnJCY1cyT3N0NlRQUi1GNlk3M3NBUi1xcThDeDJYbEFnazYtNU9GWHA5LTFC?oc=5)
+
+## 📅 Сезоны, события, патчи
+
+### [Fortnite Leak Points to Kiriko and Widowmaker in Overwatch Collab Part 2 - Happy Gamer](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjQweXFYYjBzbEdQREJjT01xMWMyVUswNERicnBodjJKNFkzTTh6eWlaelZ6czJyaExaV2N1UkJZbzZ2V1hkSGIxM1JJeHpValFzQTFsY251Ti1mYnJCY1cyT3N0NlRQUi1GNlk3M3NBUi1xcThDeDJYbEFnazYtNU9GWHA5LTFC?oc=5)
+Fortnite Leak Points to Kiriko and Widowmaker in Overwatch Collab Part 2 Happy Gamer
+
+<sub>`Google News` · 15.11.2026</sub>
 
 <sub>🤖 Собирается автоматически · архив: `digests/`</sub>

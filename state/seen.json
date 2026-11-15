@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-14T22:05:38Z",
+ "last_run": "2026-11-15T13:38:00Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -606,6 +606,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "What We Played – Overwatch, Sons of Sparta & Planet of Lana 2 - TheSixthAxis"
   },
+  "googlenews:1b7166539b85": {
+   "src": "googlenews",
+   "t": "2026-11-15T13:38:00Z",
+   "title": "Overwatch 2 is Coming to Xbox Game Pass - Blizzard"
+  },
   "googlenews:1bb267c63971": {
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
@@ -935,6 +940,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Weekly(ish) Recall: Double The Doki — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:75ad3151f11b": {
+   "src": "googlenews",
+   "t": "2026-11-15T13:38:00Z",
+   "title": "Fortnite Leak Points to Kiriko and Widowmaker in Overwatch Collab Part 2 - Happy Gamer"
   },
   "googlenews:79d6c9328a5c": {
    "src": "googlenews",
