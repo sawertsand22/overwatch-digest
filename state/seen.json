@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-17T01:43:04Z",
+ "last_run": "2026-11-17T15:39:45Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -756,6 +756,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch Tier List Season 5 (5v5): Best Heroes Ranked - Mobalytics"
   },
+  "googlenews:3ca497428ea7": {
+   "src": "googlenews",
+   "t": "2026-11-17T15:39:45Z",
+   "title": "Overwatch 2 Spotlight: A New Era of Innovation and Excitement - Blizzard News"
+  },
   "googlenews:3e73fc1ff79b": {
    "src": "googlenews",
    "t": "2026-11-13T23:21:50Z",
@@ -990,6 +995,11 @@
    "src": "googlenews",
    "t": "2026-11-04T23:21:48Z",
    "title": "Aspiring to be Yourself with Grandma — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:859dcbb39014": {
+   "src": "googlenews",
+   "t": "2026-11-17T15:39:45Z",
+   "title": "Overwatch 2 Community Update - Blizzard"
   },
   "googlenews:85af921a9aeb": {
    "src": "googlenews",
@@ -1575,6 +1585,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Sink your teeth into Overwatch's BlizzCon Reveals! - Blizzard Entertainment"
+  },
+  "googlenews:f35efd6fd2d4": {
+   "src": "googlenews",
+   "t": "2026-11-17T15:39:45Z",
+   "title": "Overwatch November 16 2026 Patch Notes - IGN"
   },
   "googlenews:f4a0e0a5346b": {
    "src": "googlenews",
