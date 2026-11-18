@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-18T15:18:24Z",
+ "last_run": "2026-11-18T23:59:47Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -726,6 +726,11 @@
    "t": "2026-11-04T13:56:23Z",
    "title": "‘Overwatch’ died for ‘Overwatch 2.’ It was totally worth it. - The Washington Post"
   },
+  "googlenews:3376c08a2663": {
+   "src": "googlenews",
+   "t": "2026-11-18T23:59:47Z",
+   "title": "Fortnite Leak Shows Kiriko and Widowmaker Skins Dropping November 20 - Happy Gamer"
+  },
   "googlenews:3557004310a0": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -830,6 +835,11 @@
    "src": "googlenews",
    "t": "2026-11-09T15:32:04Z",
    "title": "Overwatch Short Story ‘All That Follows’ Puts Doctrine and Talon Back in a Room - Happy Gamer"
+  },
+  "googlenews:540aac831cc0": {
+   "src": "googlenews",
+   "t": "2026-11-18T23:59:47Z",
+   "title": "Overwatch 2 releases on October 4, free for everyone - Nintendo"
   },
   "googlenews:565af045b7b0": {
    "src": "googlenews",
@@ -1241,6 +1251,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Why did Overwatch become free to play? Explained - Esports.gg"
   },
+  "googlenews:b06bd50be164": {
+   "src": "googlenews",
+   "t": "2026-11-18T23:59:47Z",
+   "title": "Kiriko and Widowmaker Are Coming to Fortnite on November 20, Leakers Say - TalkEsport"
+  },
   "googlenews:b07895fdcc61": {
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
@@ -1506,6 +1521,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Blizzard Unveils Major 2026 Plans For Overwatch 2, Including A Slight Name Change - Pure Xbox"
   },
+  "googlenews:e14b8c32e1f9": {
+   "src": "googlenews",
+   "t": "2026-11-18T23:59:47Z",
+   "title": "Fortnite Festival Adds Perfect Night from Overwatch - Netto's Game Room"
+  },
   "googlenews:e18bbedcadd7": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -1660,6 +1680,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Blizzard renames Overwatch 2 to Overwatch, 4 years after deciding Overwatch was Overwatch 2, because \"Overwatch is more than just a digit: it's a living univers"
+  },
+  "googlenews:fceb77e00562": {
+   "src": "googlenews",
+   "t": "2026-11-18T23:59:47Z",
+   "title": "Overwatch Cheer Rally Runs November 24 to December 7 Before OWCS Finals - Happy Gamer"
   },
   "googlenews:fcfd47192600": {
    "src": "googlenews",
