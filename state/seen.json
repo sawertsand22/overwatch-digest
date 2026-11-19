@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-18T23:59:47Z",
+ "last_run": "2026-11-19T15:25:17Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -611,6 +611,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "What We Played – Overwatch, Sons of Sparta & Planet of Lana 2 - TheSixthAxis"
   },
+  "googlenews:19fe776bc30d": {
+   "src": "googlenews",
+   "t": "2026-11-19T15:25:17Z",
+   "title": "Rally up, heroes! The fight begins in Overwatch® 2, available now! - Nintendo"
+  },
   "googlenews:1b7166539b85": {
    "src": "googlenews",
    "t": "2026-11-15T13:38:00Z",
@@ -785,6 +790,11 @@
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
    "title": "Overwatch 2 Brings Back the Excavation Initiative With Loot Boxes Through December 7 - Happy Gamer"
+  },
+  "googlenews:452f4e04eb2d": {
+   "src": "googlenews",
+   "t": "2026-11-19T15:25:17Z",
+   "title": "Fortnite x Overwatch Wave 2: Widowmaker & Kiriko Skins, Release Date, Bundle Price & All Cosmetics - MMOEXP"
   },
   "googlenews:468899ef9224": {
    "src": "googlenews",
@@ -1380,6 +1390,11 @@
    "src": "googlenews",
    "t": "2026-11-12T23:19:02Z",
    "title": "Jeff Kaplan Blames Overwatch 2’s Messy Reveal On Blizzard Hubris: ‘You Guys Are F*cking Idiots’ - Kotaku"
+  },
+  "googlenews:c2d539a257fd": {
+   "src": "googlenews",
+   "t": "2026-11-19T15:25:17Z",
+   "title": "Overwatch OWCS Finals Tickets Come With an Ember Sentry Wuyang Skin - Happy Gamer"
   },
   "googlenews:c30f79ad8699": {
    "src": "googlenews",
