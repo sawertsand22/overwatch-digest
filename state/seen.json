@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-20T00:23:07Z",
+ "last_run": "2026-11-20T15:01:52Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -766,6 +766,11 @@
    "t": "2026-11-04T13:56:23Z",
    "title": "Overwatch game directors are pleased with ‘huge’ 2026 and ‘so excited’ for 2027’s new story - Destructoid"
   },
+  "googlenews:31241e29a84d": {
+   "src": "googlenews",
+   "t": "2026-11-20T15:01:52Z",
+   "title": "Hero Statistics - Blizzard"
+  },
   "googlenews:32474818defd": {
    "src": "googlenews",
    "t": "2026-11-14T13:09:40Z",
@@ -995,6 +1000,11 @@
    "src": "googlenews",
    "t": "2026-11-13T23:21:50Z",
    "title": "Diablo 4 May Have Crushed Overwatch 2, According to Former Dev - OpenCritic"
+  },
+  "googlenews:675d65a57d42": {
+   "src": "googlenews",
+   "t": "2026-11-20T15:01:52Z",
+   "title": "Does Overwatch 2 Need To Add More Heroes To Survive the Marvel Rivals Boom? - Comic Book Resources"
   },
   "googlenews:67c781349223": {
    "src": "googlenews",
@@ -1461,6 +1471,11 @@
    "t": "2026-11-16T15:09:06Z",
    "title": "Overwatch Director Officially Comments on Hero 55 Controversy - GameRant"
   },
+  "googlenews:be29e042a284": {
+   "src": "googlenews",
+   "t": "2026-11-20T15:01:52Z",
+   "title": "God’s Favorite Child Is Coming To Fortnite - Kotaku"
+  },
   "googlenews:bee40b7ea2d8": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -1565,6 +1580,11 @@
    "src": "googlenews",
    "t": "2026-11-10T22:57:02Z",
    "title": "Overwatch Brings Back 6v6 Role Queue in a Four-Week Competitive Mini Season for Season 6 - TalkEsport"
+  },
+  "googlenews:d3ea451ce323": {
+   "src": "googlenews",
+   "t": "2026-11-20T15:01:52Z",
+   "title": "Florence Esports Festival Tournament Recap - Peach Belt Conference"
   },
   "googlenews:d4ef41a2395a": {
    "src": "googlenews",
