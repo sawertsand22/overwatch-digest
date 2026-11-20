@@ -1,21 +1,19 @@
-**Сформировано:** 20.11.2026 15:01 UTC · новых материалов: 2 · найдено всего: 169
+**Сформировано:** 20.11.2026 23:45 UTC · новых материалов: 2 · найдено всего: 167
 
 ### Главное
-- [God’s Favorite Child Is Coming To Fortnite - Kotaku](https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2REVzRscUpmbW5CUmI5c1I3M3ktS1pWdWZWaElhZzI1RWVCNnFqMlBtWDJPZE9zTmlGOHg3WjVyM2ltRTkxYU9RMEtSNlhMbGNaTWRoS1ZhTWdRRDE2c1Nqc1lWakozS2lVVWJXNGs1QU9QZXZRQ2FwNnhDUlNtWFI2VkZLYy0zSkxZcmQ3S2ptM3ZHTGxlUUFoclU?oc=5)
-- [Florence Esports Festival Tournament Recap - Peach Belt Conference](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTNidGt5SUR2cWxBZGY2eGpxSTVMNTJJaXR1VS13ZjZCYjNRMFZQT2VlSmRsQ2pBZnhKY1hLc0VGTjNFX3otWWxFOTA0b0pDM3lTVFlOT05RdGFzRzVLZXhYRlhMZklCSWF3WUowVkRNdTAyd1VHZmYxa0psMzhna3VoY0NVQVFvVjNwMTliTkg4eHZtYmY5S1FWcFpQa3pkd2JfX0tNS1JaMEFDX0RxaVN2cw?oc=5)
-
-## 🏆 Киберспорт
-
-### [Florence Esports Festival Tournament Recap - Peach Belt Conference](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTNidGt5SUR2cWxBZGY2eGpxSTVMNTJJaXR1VS13ZjZCYjNRMFZQT2VlSmRsQ2pBZnhKY1hLc0VGTjNFX3otWWxFOTA0b0pDM3lTVFlOT05RdGFzRzVLZXhYRlhMZklCSWF3WUowVkRNdTAyd1VHZmYxa0psMzhna3VoY0NVQVFvVjNwMTliTkg4eHZtYmY5S1FWcFpQa3pkd2JfX0tNS1JaMEFDX0RxaVN2cw?oc=5)
-Florence Esports Festival Tournament Recap Peach Belt Conference
-
-<sub>`Google News` · 18.11.2026</sub>
+- [Overwatch 2 Junkrat’s Loot Hunt Offers 9 Loot Boxes and Double XP Through Nov 23 - Happy Gamer](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWZwNWVrdU5xdmhQWndBQ1VpYUJjcFJBd3NPMG5iWUtIQlJGVHQycFIwaEczRHpDeTZNeUdMcWtMVng5NTRhU1A0bDZ6SWFLaHpJaTZNdWlPTHdKVlBwb0FxVXdIdldURm45V21tMGZ2UFdPdDd2cFFSQi1DLVVBYThPRTNoZTNmV0dndA?oc=5)
+- [Overwatch Junkrat’s Loot Hunt Runs November 20-23 With Loot Box Challenges - Happy Gamer](https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1l0Y0huVVhXWmZnbVQ0WFVhU3RRckpMWGRPeVh0ZnZIYzFqam9xQUVaLXNUUWxvREpUR19nMnlmdjEzVHNuUV8xUTR6SnQxU1NnOU5CVHJkY0pHNjAtWE5wdmdqTDVVZjVDNnE3cmlrYnN4RTdEaHdiTVZWbFdJNXZiY08wQQ?oc=5)
 
 ## 📰 Прочие новости
 
-### [God’s Favorite Child Is Coming To Fortnite - Kotaku](https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2REVzRscUpmbW5CUmI5c1I3M3ktS1pWdWZWaElhZzI1RWVCNnFqMlBtWDJPZE9zTmlGOHg3WjVyM2ltRTkxYU9RMEtSNlhMbGNaTWRoS1ZhTWdRRDE2c1Nqc1lWakozS2lVVWJXNGs1QU9QZXZRQ2FwNnhDUlNtWFI2VkZLYy0zSkxZcmQ3S2ptM3ZHTGxlUUFoclU?oc=5)
-God’s Favorite Child Is Coming To Fortnite Kotaku
+### [Overwatch 2 Junkrat’s Loot Hunt Offers 9 Loot Boxes and Double XP Through Nov 23 - Happy Gamer](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWZwNWVrdU5xdmhQWndBQ1VpYUJjcFJBd3NPMG5iWUtIQlJGVHQycFIwaEczRHpDeTZNeUdMcWtMVng5NTRhU1A0bDZ6SWFLaHpJaTZNdWlPTHdKVlBwb0FxVXdIdldURm45V21tMGZ2UFdPdDd2cFFSQi1DLVVBYThPRTNoZTNmV0dndA?oc=5)
+Overwatch 2 Junkrat’s Loot Hunt Offers 9 Loot Boxes and Double XP Through Nov 23 Happy Gamer
 
-<sub>`Google News` · 19.11.2026</sub>
+<sub>`Google News` · 20.11.2026</sub>
+
+### [Overwatch Junkrat’s Loot Hunt Runs November 20-23 With Loot Box Challenges - Happy Gamer](https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1l0Y0huVVhXWmZnbVQ0WFVhU3RRckpMWGRPeVh0ZnZIYzFqam9xQUVaLXNUUWxvREpUR19nMnlmdjEzVHNuUV8xUTR6SnQxU1NnOU5CVHJkY0pHNjAtWE5wdmdqTDVVZjVDNnE3cmlrYnN4RTdEaHdiTVZWbFdJNXZiY08wQQ?oc=5)
+Overwatch Junkrat’s Loot Hunt Runs November 20-23 With Loot Box Challenges Happy Gamer
+
+<sub>`Google News` · 20.11.2026</sub>
 
 <sub>🤖 Собирается автоматически · архив: `digests/`</sub>
