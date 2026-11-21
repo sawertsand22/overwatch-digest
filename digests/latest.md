@@ -1,20 +1,20 @@
-**Сформировано:** 21.11.2026 14:23 UTC · новых материалов: 2 · найдено всего: 160
+**Сформировано:** 21.11.2026 22:53 UTC · новых материалов: 2 · найдено всего: 160
 
 ### Главное
-- [How to Get Widowmaker Overwatch Skin in Fortnite - Beebom](https://news.google.com/rss/articles/CBMid0FVX3lxTE1raExGdDRzR2E3ZEd5SWVKZGhraUdNd3pmUEVxMnlXNVBPbGc3U05qSVBWNThwVFdQU0hON3EtTWctR0dFTDhMVUtaalZYLUk0TlFrelJld2lHbk9qcndPOXVwVVJtbE1CcXl2cG05ZkJzTHFURTM00gF8QVVfeXFMT18yX1dLMVRjSlMyQmFsT2dkWWZPZWREY3kxT3JLaG9LZ0ltbXRxUDJja1FaZUw2Y3FRNG5aajNHcE85dGRNbl9oNzNBeGl0UFNqS09zNTkxc0h4TWljamZza2YxUUVPTlkzRnM2UnVfTkdrZGpjbndwQUU1MA?oc=5)
-- [Kiriko and Widowmaker Overwatch Outfits Land in Fortnite on Switch and Switch 2 - Happy Gamer](https://news.google.com/rss/articles/CBMifEFVX3lxTE1IMWZ0cjE2UDZDUTRSX19XOFdFek1SVXNKb2RkSzFUclNBMWY2bjRMTlI4VFoxeDZEajNZQmtjWXZGQXhKMmFTVGU5TzRmU0p3Tll0WkNnYVB6YU5XTXQ5aGJaU2k5bWZVUVptdWxOZUs1eFVZU3ZKV1p0VFk?oc=5)
+- [Overwatch 2: VARREL Survive a Reverse Sweep to Make the OWCS Finals - Happy Gamer](https://news.google.com/rss/articles/CBMiekFVX3lxTE53c0ZRdGpOUGo3MEx5NFJuak1FclkxNExyQjJwWW1QZUpWRTdLNFJJejlmcjEtaGM2MGVmbGNEN3VBZ3FLUzdUWGVsZEdBREN5RzN1UUZPanFrREptZ1l2YWIwa2FMMmxpWkplXzc5RTN2bkZXbklZd053?oc=5)
+- [Overwatch Collegiate Homecoming Finals Offer Free Name Card on Nov 21-22 - Happy Gamer](https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUw4c2lwNjF5UkIyelk0UlE0eFpSUnJwODlNOXB3RzJOMjZBRXZWNzBudWFtbWhkRGlvWmFmbUV2Ul9tVjZlNU1QaUQ4TFFUVHNpaEMxWmpBT3NWS2ZjamdpR0tIRVoyVmhLamVTM203SGR6UVdXb3NfUTZEbnFwTktySURRZktUQlZGWWZOLWRTX3E5NEhvNmlB?oc=5)
 
-## 🎨 Скины и косметика
+## 🏆 Киберспорт
 
-### [How to Get Widowmaker Overwatch Skin in Fortnite - Beebom](https://news.google.com/rss/articles/CBMid0FVX3lxTE1raExGdDRzR2E3ZEd5SWVKZGhraUdNd3pmUEVxMnlXNVBPbGc3U05qSVBWNThwVFdQU0hON3EtTWctR0dFTDhMVUtaalZYLUk0TlFrelJld2lHbk9qcndPOXVwVVJtbE1CcXl2cG05ZkJzTHFURTM00gF8QVVfeXFMT18yX1dLMVRjSlMyQmFsT2dkWWZPZWREY3kxT3JLaG9LZ0ltbXRxUDJja1FaZUw2Y3FRNG5aajNHcE85dGRNbl9oNzNBeGl0UFNqS09zNTkxc0h4TWljamZza2YxUUVPTlkzRnM2UnVfTkdrZGpjbndwQUU1MA?oc=5)
-How to Get Widowmaker Overwatch Skin in Fortnite Beebom
+### [Overwatch 2: VARREL Survive a Reverse Sweep to Make the OWCS Finals - Happy Gamer](https://news.google.com/rss/articles/CBMiekFVX3lxTE53c0ZRdGpOUGo3MEx5NFJuak1FclkxNExyQjJwWW1QZUpWRTdLNFJJejlmcjEtaGM2MGVmbGNEN3VBZ3FLUzdUWGVsZEdBREN5RzN1UUZPanFrREptZ1l2YWIwa2FMMmxpWkplXzc5RTN2bkZXbklZd053?oc=5)
+Overwatch 2: VARREL Survive a Reverse Sweep to Make the OWCS Finals Happy Gamer
 
-<sub>`Google News` · 20.11.2026</sub>
+<sub>`Google News` · 21.11.2026</sub>
 
 ## 📰 Прочие новости
 
-### [Kiriko and Widowmaker Overwatch Outfits Land in Fortnite on Switch and Switch 2 - Happy Gamer](https://news.google.com/rss/articles/CBMifEFVX3lxTE1IMWZ0cjE2UDZDUTRSX19XOFdFek1SVXNKb2RkSzFUclNBMWY2bjRMTlI4VFoxeDZEajNZQmtjWXZGQXhKMmFTVGU5TzRmU0p3Tll0WkNnYVB6YU5XTXQ5aGJaU2k5bWZVUVptdWxOZUs1eFVZU3ZKV1p0VFk?oc=5)
-Kiriko and Widowmaker Overwatch Outfits Land in Fortnite on Switch and Switch 2 Happy Gamer
+### [Overwatch Collegiate Homecoming Finals Offer Free Name Card on Nov 21-22 - Happy Gamer](https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUw4c2lwNjF5UkIyelk0UlE0eFpSUnJwODlNOXB3RzJOMjZBRXZWNzBudWFtbWhkRGlvWmFmbUV2Ul9tVjZlNU1QaUQ4TFFUVHNpaEMxWmpBT3NWS2ZjamdpR0tIRVoyVmhLamVTM203SGR6UVdXb3NfUTZEbnFwTktySURRZktUQlZGWWZOLWRTX3E5NEhvNmlB?oc=5)
+Overwatch Collegiate Homecoming Finals Offer Free Name Card on Nov 21-22 Happy Gamer
 
 <sub>`Google News` · 21.11.2026</sub>
 
