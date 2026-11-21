@@ -1,19 +1,21 @@
-**Сформировано:** 20.11.2026 23:45 UTC · новых материалов: 2 · найдено всего: 167
+**Сформировано:** 21.11.2026 14:23 UTC · новых материалов: 2 · найдено всего: 160
 
 ### Главное
-- [Overwatch 2 Junkrat’s Loot Hunt Offers 9 Loot Boxes and Double XP Through Nov 23 - Happy Gamer](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWZwNWVrdU5xdmhQWndBQ1VpYUJjcFJBd3NPMG5iWUtIQlJGVHQycFIwaEczRHpDeTZNeUdMcWtMVng5NTRhU1A0bDZ6SWFLaHpJaTZNdWlPTHdKVlBwb0FxVXdIdldURm45V21tMGZ2UFdPdDd2cFFSQi1DLVVBYThPRTNoZTNmV0dndA?oc=5)
-- [Overwatch Junkrat’s Loot Hunt Runs November 20-23 With Loot Box Challenges - Happy Gamer](https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1l0Y0huVVhXWmZnbVQ0WFVhU3RRckpMWGRPeVh0ZnZIYzFqam9xQUVaLXNUUWxvREpUR19nMnlmdjEzVHNuUV8xUTR6SnQxU1NnOU5CVHJkY0pHNjAtWE5wdmdqTDVVZjVDNnE3cmlrYnN4RTdEaHdiTVZWbFdJNXZiY08wQQ?oc=5)
+- [How to Get Widowmaker Overwatch Skin in Fortnite - Beebom](https://news.google.com/rss/articles/CBMid0FVX3lxTE1raExGdDRzR2E3ZEd5SWVKZGhraUdNd3pmUEVxMnlXNVBPbGc3U05qSVBWNThwVFdQU0hON3EtTWctR0dFTDhMVUtaalZYLUk0TlFrelJld2lHbk9qcndPOXVwVVJtbE1CcXl2cG05ZkJzTHFURTM00gF8QVVfeXFMT18yX1dLMVRjSlMyQmFsT2dkWWZPZWREY3kxT3JLaG9LZ0ltbXRxUDJja1FaZUw2Y3FRNG5aajNHcE85dGRNbl9oNzNBeGl0UFNqS09zNTkxc0h4TWljamZza2YxUUVPTlkzRnM2UnVfTkdrZGpjbndwQUU1MA?oc=5)
+- [Kiriko and Widowmaker Overwatch Outfits Land in Fortnite on Switch and Switch 2 - Happy Gamer](https://news.google.com/rss/articles/CBMifEFVX3lxTE1IMWZ0cjE2UDZDUTRSX19XOFdFek1SVXNKb2RkSzFUclNBMWY2bjRMTlI4VFoxeDZEajNZQmtjWXZGQXhKMmFTVGU5TzRmU0p3Tll0WkNnYVB6YU5XTXQ5aGJaU2k5bWZVUVptdWxOZUs1eFVZU3ZKV1p0VFk?oc=5)
+
+## 🎨 Скины и косметика
+
+### [How to Get Widowmaker Overwatch Skin in Fortnite - Beebom](https://news.google.com/rss/articles/CBMid0FVX3lxTE1raExGdDRzR2E3ZEd5SWVKZGhraUdNd3pmUEVxMnlXNVBPbGc3U05qSVBWNThwVFdQU0hON3EtTWctR0dFTDhMVUtaalZYLUk0TlFrelJld2lHbk9qcndPOXVwVVJtbE1CcXl2cG05ZkJzTHFURTM00gF8QVVfeXFMT18yX1dLMVRjSlMyQmFsT2dkWWZPZWREY3kxT3JLaG9LZ0ltbXRxUDJja1FaZUw2Y3FRNG5aajNHcE85dGRNbl9oNzNBeGl0UFNqS09zNTkxc0h4TWljamZza2YxUUVPTlkzRnM2UnVfTkdrZGpjbndwQUU1MA?oc=5)
+How to Get Widowmaker Overwatch Skin in Fortnite Beebom
+
+<sub>`Google News` · 20.11.2026</sub>
 
 ## 📰 Прочие новости
 
-### [Overwatch 2 Junkrat’s Loot Hunt Offers 9 Loot Boxes and Double XP Through Nov 23 - Happy Gamer](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWZwNWVrdU5xdmhQWndBQ1VpYUJjcFJBd3NPMG5iWUtIQlJGVHQycFIwaEczRHpDeTZNeUdMcWtMVng5NTRhU1A0bDZ6SWFLaHpJaTZNdWlPTHdKVlBwb0FxVXdIdldURm45V21tMGZ2UFdPdDd2cFFSQi1DLVVBYThPRTNoZTNmV0dndA?oc=5)
-Overwatch 2 Junkrat’s Loot Hunt Offers 9 Loot Boxes and Double XP Through Nov 23 Happy Gamer
+### [Kiriko and Widowmaker Overwatch Outfits Land in Fortnite on Switch and Switch 2 - Happy Gamer](https://news.google.com/rss/articles/CBMifEFVX3lxTE1IMWZ0cjE2UDZDUTRSX19XOFdFek1SVXNKb2RkSzFUclNBMWY2bjRMTlI4VFoxeDZEajNZQmtjWXZGQXhKMmFTVGU5TzRmU0p3Tll0WkNnYVB6YU5XTXQ5aGJaU2k5bWZVUVptdWxOZUs1eFVZU3ZKV1p0VFk?oc=5)
+Kiriko and Widowmaker Overwatch Outfits Land in Fortnite on Switch and Switch 2 Happy Gamer
 
-<sub>`Google News` · 20.11.2026</sub>
-
-### [Overwatch Junkrat’s Loot Hunt Runs November 20-23 With Loot Box Challenges - Happy Gamer](https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1l0Y0huVVhXWmZnbVQ0WFVhU3RRckpMWGRPeVh0ZnZIYzFqam9xQUVaLXNUUWxvREpUR19nMnlmdjEzVHNuUV8xUTR6SnQxU1NnOU5CVHJkY0pHNjAtWE5wdmdqTDVVZjVDNnE3cmlrYnN4RTdEaHdiTVZWbFdJNXZiY08wQQ?oc=5)
-Overwatch Junkrat’s Loot Hunt Runs November 20-23 With Loot Box Challenges Happy Gamer
-
-<sub>`Google News` · 20.11.2026</sub>
+<sub>`Google News` · 21.11.2026</sub>
 
 <sub>🤖 Собирается автоматически · архив: `digests/`</sub>
