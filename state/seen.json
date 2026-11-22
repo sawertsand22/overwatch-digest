@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-21T22:53:13Z",
+ "last_run": "2026-11-22T14:15:33Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -735,6 +735,11 @@
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
    "title": "Overwatch 2 Ready Check: Prepare for Launch! - Blizzard Entertainment"
+  },
+  "googlenews:2b96938b7ab2": {
+   "src": "googlenews",
+   "t": "2026-11-22T14:15:33Z",
+   "title": "Kiriko and Widowmaker Come to Fortnite on November 20 - EGamersWorld"
   },
   "googlenews:2bc635c6bb42": {
    "src": "googlenews",
@@ -1506,6 +1511,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch 2's Showdown Shuffle creates more frustration than fun - GamingTrend"
   },
+  "googlenews:bcc1098957d2": {
+   "src": "googlenews",
+   "t": "2026-11-22T14:15:33Z",
+   "title": "Story Missions, Hero Missions, Push Maps, and more–Overwatch 2 “What’s Next” Panel Recap - Blizzard"
+  },
   "googlenews:bd398d8d912a": {
    "src": "googlenews",
    "t": "2026-11-16T15:09:06Z",
@@ -1645,6 +1655,11 @@
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
    "title": "First look at the player-versus-player changes coming to Overwatch 2 - News - Blizzard Entertainment"
+  },
+  "googlenews:d741b167a8a3": {
+   "src": "googlenews",
+   "t": "2026-11-22T14:15:33Z",
+   "title": "Overwatch 2 is Coming to Xbox Game Pass - Blizzard"
   },
   "googlenews:d87ad0984849": {
    "src": "googlenews",

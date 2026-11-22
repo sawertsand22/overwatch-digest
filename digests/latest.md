@@ -1,21 +1,13 @@
-**Сформировано:** 21.11.2026 22:53 UTC · новых материалов: 2 · найдено всего: 160
+**Сформировано:** 22.11.2026 14:15 UTC · новых материалов: 1 · найдено всего: 160
 
 ### Главное
-- [Overwatch 2: VARREL Survive a Reverse Sweep to Make the OWCS Finals - Happy Gamer](https://news.google.com/rss/articles/CBMiekFVX3lxTE53c0ZRdGpOUGo3MEx5NFJuak1FclkxNExyQjJwWW1QZUpWRTdLNFJJejlmcjEtaGM2MGVmbGNEN3VBZ3FLUzdUWGVsZEdBREN5RzN1UUZPanFrREptZ1l2YWIwa2FMMmxpWkplXzc5RTN2bkZXbklZd053?oc=5)
-- [Overwatch Collegiate Homecoming Finals Offer Free Name Card on Nov 21-22 - Happy Gamer](https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUw4c2lwNjF5UkIyelk0UlE0eFpSUnJwODlNOXB3RzJOMjZBRXZWNzBudWFtbWhkRGlvWmFmbUV2Ul9tVjZlNU1QaUQ4TFFUVHNpaEMxWmpBT3NWS2ZjamdpR0tIRVoyVmhLamVTM203SGR6UVdXb3NfUTZEbnFwTktySURRZktUQlZGWWZOLWRTX3E5NEhvNmlB?oc=5)
-
-## 🏆 Киберспорт
-
-### [Overwatch 2: VARREL Survive a Reverse Sweep to Make the OWCS Finals - Happy Gamer](https://news.google.com/rss/articles/CBMiekFVX3lxTE53c0ZRdGpOUGo3MEx5NFJuak1FclkxNExyQjJwWW1QZUpWRTdLNFJJejlmcjEtaGM2MGVmbGNEN3VBZ3FLUzdUWGVsZEdBREN5RzN1UUZPanFrREptZ1l2YWIwa2FMMmxpWkplXzc5RTN2bkZXbklZd053?oc=5)
-Overwatch 2: VARREL Survive a Reverse Sweep to Make the OWCS Finals Happy Gamer
-
-<sub>`Google News` · 21.11.2026</sub>
+- [Kiriko and Widowmaker Come to Fortnite on November 20 - EGamersWorld](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbmhQNmZ2cXA4NDR4NUtJS25DWk04ZjlKMUpTUXBFS21KSkpZUVYtWVJEYXI1S2ZsRS1SVmVfNzYyVnNTcjFSMzVmWGhpdXA1bkpYQTBkb3dzNUxUSkpUM2VVWEZKVDR1M1BiTldKZjRrcVh1VUlpT2RBRlZYLUl2VFFBb2NzXzZHUlczUGkyRXh0RWtXM3VPZjVvNlMzbkRvTlBqSTFOVlQ?oc=5)
 
 ## 📰 Прочие новости
 
-### [Overwatch Collegiate Homecoming Finals Offer Free Name Card on Nov 21-22 - Happy Gamer](https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUw4c2lwNjF5UkIyelk0UlE0eFpSUnJwODlNOXB3RzJOMjZBRXZWNzBudWFtbWhkRGlvWmFmbUV2Ul9tVjZlNU1QaUQ4TFFUVHNpaEMxWmpBT3NWS2ZjamdpR0tIRVoyVmhLamVTM203SGR6UVdXb3NfUTZEbnFwTktySURRZktUQlZGWWZOLWRTX3E5NEhvNmlB?oc=5)
-Overwatch Collegiate Homecoming Finals Offer Free Name Card on Nov 21-22 Happy Gamer
+### [Kiriko and Widowmaker Come to Fortnite on November 20 - EGamersWorld](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbmhQNmZ2cXA4NDR4NUtJS25DWk04ZjlKMUpTUXBFS21KSkpZUVYtWVJEYXI1S2ZsRS1SVmVfNzYyVnNTcjFSMzVmWGhpdXA1bkpYQTBkb3dzNUxUSkpUM2VVWEZKVDR1M1BiTldKZjRrcVh1VUlpT2RBRlZYLUl2VFFBb2NzXzZHUlczUGkyRXh0RWtXM3VPZjVvNlMzbkRvTlBqSTFOVlQ?oc=5)
+Kiriko and Widowmaker Come to Fortnite on November 20 EGamersWorld
 
-<sub>`Google News` · 21.11.2026</sub>
+<sub>`Google News` · 19.11.2026</sub>
 
 <sub>🤖 Собирается автоматически · архив: `digests/`</sub>
