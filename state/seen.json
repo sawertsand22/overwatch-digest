@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-22T14:15:33Z",
+ "last_run": "2026-11-22T23:23:00Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -1560,6 +1560,11 @@
    "src": "googlenews",
    "t": "2026-11-13T14:08:25Z",
    "title": "\"You Guys Are F*cking Idiots\": Jeff Kaplan Recalls Chaotic Overwatch 2 Reveal - 80 Level"
+  },
+  "googlenews:c461d34bbb1e": {
+   "src": "googlenews",
+   "t": "2026-11-22T23:23:00Z",
+   "title": "Groundbreaking PvP Gameplay Changes Coming... Learn More on February 12! - Blizzard"
   },
   "googlenews:c5e9cd0fd084": {
    "src": "googlenews",
