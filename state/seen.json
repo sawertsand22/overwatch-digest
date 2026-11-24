@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-23T17:37:52Z",
+ "last_run": "2026-11-24T03:53:01Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -516,6 +516,11 @@
    "t": "2026-11-04T13:56:23Z",
    "title": "Groundbreaking PvP Gameplay Changes Coming... Learn More on February 12! - Blizzard Entertainment"
   },
+  "googlenews:04de7453cd76": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "Weekly Recall: Charting The Summit — Overwatch 2 - Blizzard News"
+  },
   "googlenews:06702361be5e": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -771,10 +776,20 @@
    "t": "2026-11-04T13:56:23Z",
    "title": "Rise as a Champion in Overwatch 2 — Season 9 - Blizzard Entertainment"
   },
+  "googlenews:2ce56e354807": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "Blizzard renames Overwatch 2 to Overwatch, because it's a 'living universe' - TweakTown"
+  },
   "googlenews:2d19c83553a4": {
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
    "title": "Overwatch 2’s Rebrand Won’t Save It, But I Know What Will - ComicBook.com"
+  },
+  "googlenews:2d3d00580379": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "Overwatch Removes Lifeweaver Without Explanation - Kotaku"
   },
   "googlenews:2dd6d6e4446a": {
    "src": "googlenews",
@@ -855,6 +870,11 @@
    "src": "googlenews",
    "t": "2026-11-13T23:21:50Z",
    "title": "Overwatch 2 Season 6 Hudson Is a Damage Hero, and Some Players Wanted Support - Happy Gamer"
+  },
+  "googlenews:3f86bb12945b": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "Sink your teeth into Overwatch's BlizzCon Reveals! - Blizzard"
   },
   "googlenews:41eb25feeb58": {
    "src": "googlenews",
@@ -1051,6 +1071,11 @@
    "t": "2026-11-20T00:23:07Z",
    "title": "Overwatch 2 Rank Tracker: Build One in 12 Steps [2026] - shattered.io"
   },
+  "googlenews:6c97852f7167": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "What We Played – Overwatch (2), Nioh 3 and Speedball - TheSixthAxis"
+  },
   "googlenews:6d508e7a8ebb": {
    "src": "googlenews",
    "t": "2026-11-10T14:30:21Z",
@@ -1076,6 +1101,11 @@
    "t": "2026-11-06T13:54:02Z",
    "title": "The Overwatch devs hear your complaints about skin distribution but concede that some cosmetics need to 'support the actual bottom-line business' - PC Gamer"
   },
+  "googlenews:72efa04c5493": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "Overwatch Spotlight 2026: One day at Blizzard's campus has made me realise Overwatch is back! - Gamereactor UK"
+  },
   "googlenews:739a21561614": {
    "src": "googlenews",
    "t": "2026-11-20T00:23:07Z",
@@ -1085,6 +1115,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Weekly(ish) Recall: Double The Doki — Overwatch 2 - Blizzard News"
+  },
+  "googlenews:744a157dabf4": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "Mercy and other Overwatch old-timers are getting spruced up in season 2 - Polygon.com"
   },
   "googlenews:75ad3151f11b": {
    "src": "googlenews",
@@ -1351,6 +1386,11 @@
    "t": "2026-11-21T22:53:13Z",
    "title": "Overwatch Collegiate Homecoming Finals Offer Free Name Card on Nov 21-22 - Happy Gamer"
   },
+  "googlenews:a35ba3bb6d0a": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "‘Overwatch 2’ Rebrands, and Its Messy Arc Is Complete - Gizmodo"
+  },
   "googlenews:a3c39dc47319": {
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
@@ -1360,6 +1400,11 @@
    "src": "googlenews",
    "t": "2026-11-05T14:14:03Z",
    "title": "Overwatch Dream City Skins For Domina, Sombra, Lucio And Lifeweaver Surface - Happy Gamer"
+  },
+  "googlenews:a4bcec90230d": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "Overwatch 2 now called Overwatch, Nintendo Switch 2 version revealed, new heroes, more - Nintendo Everything"
   },
   "googlenews:a51f5d87e47f": {
    "src": "googlenews",
@@ -1441,6 +1486,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch Nintendo Switch 2 Port Review - Nintendo Insider"
   },
+  "googlenews:b3665b32b7c9": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "“We’re Dropping the 2”: Overwatch 2 Is Now Just Called ‘Overwatch’ Moving Forward - Wccftech"
+  },
   "googlenews:b5d1e0cc22ac": {
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
@@ -1495,6 +1545,11 @@
    "src": "googlenews",
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch 2 drops ‘2’ as year-long narrative arc begins with 10 new heroes; coming to Switch 2 this spring - Gematsu"
+  },
+  "googlenews:b971f852f5b5": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "Step into the Spotlight — Overwatch 2 - Blizzard News"
   },
   "googlenews:bb5322208fb0": {
    "src": "googlenews",
@@ -1630,6 +1685,16 @@
    "src": "googlenews",
    "t": "2026-11-06T13:54:02Z",
    "title": "Overwatch All That Follows story recap: New Talon heroes, Vendetta's fate, and Reaper's redemption - Esports.gg"
+  },
+  "googlenews:d14e6dac91bd": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "COLUMN: ‘Overwatch’ vs. ‘Marvel Rivals:’ What ‘Overwatch’s’ new update means for both - Indiana Daily Student"
+  },
+  "googlenews:d1bc1a52732e": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "Weekly Recall: Thanks For The (Aim) Assist — Overwatch 2 — Blizzard News - Blizzard News"
   },
   "googlenews:d243b316a856": {
    "src": "googlenews",
@@ -1795,6 +1860,11 @@
    "src": "googlenews",
    "t": "2026-11-12T00:13:16Z",
    "title": "Overwatch tests 6v6 Role Queue Competitive mode in Season 6 - Esports.gg"
+  },
+  "googlenews:ea70007b478e": {
+   "src": "googlenews",
+   "t": "2026-11-24T03:53:01Z",
+   "title": "Overwatch 2 has been officially renamed... Overwatch! - Instant Gaming News"
   },
   "googlenews:ed1c79c0d5dc": {
    "src": "googlenews",
