@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-26T01:40:11Z",
+ "last_run": "2026-11-26T16:33:57Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -1046,6 +1046,11 @@
    "t": "2026-11-25T16:55:42Z",
    "title": "OWCS Finals Start December 1 at 8PM PT With Tickets Open - Happy Gamer"
   },
+  "googlenews:5eed05bfbadf": {
+   "src": "googlenews",
+   "t": "2026-11-26T16:33:57Z",
+   "title": "All new Overwatch heroes in 2026 and everything we know about Hudson - Esports.gg"
+  },
   "googlenews:5fae49197777": {
    "src": "googlenews",
    "t": "2026-11-21T14:23:39Z",
@@ -1455,6 +1460,11 @@
    "src": "googlenews",
    "t": "2026-11-04T13:56:23Z",
    "title": "The 'Overwatch 2' beta brings fresh content to a stale game - Engadget"
+  },
+  "googlenews:a71e78e80f85": {
+   "src": "googlenews",
+   "t": "2026-11-26T16:33:57Z",
+   "title": "Fortnite Guide: How to Get the Widowmaker Overwatch Skin - games.gg"
   },
   "googlenews:a7e140bf6254": {
    "src": "googlenews",
