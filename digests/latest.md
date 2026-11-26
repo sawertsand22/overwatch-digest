@@ -1,36 +1,28 @@
-**Сформировано:** 25.11.2026 16:55 UTC · новых материалов: 5 · найдено всего: 153
+**Сформировано:** 26.11.2026 01:40 UTC · новых материалов: 3 · найдено всего: 197
 
 ### Главное
-- [Overwatch Magepunk Mega Skins Return to the Shop for Mauga, Juno and More - Happy Gamer](https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZ1hBRjFsMTZRVXNwdnpfaloyLWM5bHZHTk96X2NwQldZQk9yWDBzOUpDZXVRU2NkRWlVYjFRa3YtOHI3N0JET1QtY1Ntay1mdUtRQ2hQM2dvcjQxQ1RHekZad2V3YlUtdGlxbFhKcDNyNkFVZ3Zob25wU1A?oc=5)
-- [OWCS Finals Start December 1 at 8PM PT With Tickets Open - Happy Gamer](https://news.google.com/rss/articles/CBMickFVX3lxTE9FUExxbDQ3SU1HSTUtbTRsUkJPRnU3MmZzNjZPRW9xZUN0ZG9TMjl4QWRGX0Q2dmV5Q25OdUczeUs5Y1JmaXlodmZIalhVV0tFVXhRTWtwMjdsOUFGSC1VTGtEVnJGMk03VDNpdXdEMEZaQQ?oc=5)
-- [Overwatch OWCS World Finals Cheer Event Offers 10 Esports Loot Boxes - Happy Gamer](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXJ2M1hSQkJCczlRZ1ZOVDE4eWZuNktqUkp4Ym56Mnc0eWJaa2VoY2lPbEczMEFFS1NJWklJRy14c0k5T0RmT0twc2NTMkVZQmF1TXBvQ2dXTS13d3NfcFpzaHJvOWMwV0NJbFJhZ0Ywc0wwRTdsaTUtVGRvd09EcHRac3E?oc=5)
+- [Capcom is officially killing its 'Jurassic World meets Overwatch' multiplayer shooter - Polygon.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5SdnRZd1pGZnJGYzRQc3dyZ0RWMGc1VFoyR1RrNkxRaEtNX2FEMFpWa3lnLUZOYmk3SmlSY2RRa1l5Tl95LWpVOFhaRF9xN2I5M0RsVUFHNndhNndDbHAzVnZqU2JqTEZxdTJocw?oc=5)
+- [Director's Take: Battle Pass Revamp — Overwatch 2 — Blizzard News - Blizzard News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzBzYnhKdDZ6VHR5ZU9fOTFQSzZzYlQ3ZkpQS0tTcm8zRmw5ODBiODRERExlcExUdXJ4UFA4MS0xR0lobk0ydzVNWG9JVmpjRDU2aFJvZlctRlF6RHRJVUp4YVlUeG9kSzZ0Rk8xZXNQekM3QW5FQkRNR1M1RFNQUDRnRQ?oc=5)
+- [Feed Your Hunger in Reign of Talon – Season 5: A Grim Doctrine - News - Blizzard](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUxkazUxenZmenBvemxoTk1WcU5jZjYwRFNUWk1HWnFfSGx4aEp4OXc5bkdGSDNPNk9pSzlBQlVKTkFHcHJvOTg3QktPUTJUM0lCU0tVa3pmXzlYLW5Fek4wZUEwcWxZMk5uOFF2cmlVbEVNang3bU1lYnpXYnhVbVA0LTlHRDFhVk5INm9vUHhpS2VwOFVfRFJNWlkxWVJrWURDXzFDV2xWR3NWem9v?oc=5)
 
 ## 🎨 Скины и косметика
 
-### [Overwatch Magepunk Mega Skins Return to the Shop for Mauga, Juno and More - Happy Gamer](https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZ1hBRjFsMTZRVXNwdnpfaloyLWM5bHZHTk96X2NwQldZQk9yWDBzOUpDZXVRU2NkRWlVYjFRa3YtOHI3N0JET1QtY1Ntay1mdUtRQ2hQM2dvcjQxQ1RHekZad2V3YlUtdGlxbFhKcDNyNkFVZ3Zob25wU1A?oc=5)
-Overwatch Magepunk Mega Skins Return to the Shop for Mauga, Juno and More Happy Gamer
+### [Director's Take: Battle Pass Revamp — Overwatch 2 — Blizzard News - Blizzard News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzBzYnhKdDZ6VHR5ZU9fOTFQSzZzYlQ3ZkpQS0tTcm8zRmw5ODBiODRERExlcExUdXJ4UFA4MS0xR0lobk0ydzVNWG9JVmpjRDU2aFJvZlctRlF6RHRJVUp4YVlUeG9kSzZ0Rk8xZXNQekM3QW5FQkRNR1M1RFNQUDRnRQ?oc=5)
+Director's Take: Battle Pass Revamp — Overwatch 2 — Blizzard News Blizzard News
 
-<sub>`Google News` · 25.11.2026</sub>
+<sub>`Google News` · 10.08.2026</sub>
 
-## 🏆 Киберспорт
+## 📅 Сезоны, события, патчи
 
-### [OWCS Finals Start December 1 at 8PM PT With Tickets Open - Happy Gamer](https://news.google.com/rss/articles/CBMickFVX3lxTE9FUExxbDQ3SU1HSTUtbTRsUkJPRnU3MmZzNjZPRW9xZUN0ZG9TMjl4QWRGX0Q2dmV5Q25OdUczeUs5Y1JmaXlodmZIalhVV0tFVXhRTWtwMjdsOUFGSC1VTGtEVnJGMk03VDNpdXdEMEZaQQ?oc=5)
-OWCS Finals Start December 1 at 8PM PT With Tickets Open Happy Gamer
+### [Feed Your Hunger in Reign of Talon – Season 5: A Grim Doctrine - News - Blizzard](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUxkazUxenZmenBvemxoTk1WcU5jZjYwRFNUWk1HWnFfSGx4aEp4OXc5bkdGSDNPNk9pSzlBQlVKTkFHcHJvOTg3QktPUTJUM0lCU0tVa3pmXzlYLW5Fek4wZUEwcWxZMk5uOFF2cmlVbEVNang3bU1lYnpXYnhVbVA0LTlHRDFhVk5INm9vUHhpS2VwOFVfRFJNWlkxWVJrWURDXzFDV2xWR3NWem9v?oc=5)
+Feed Your Hunger in Reign of Talon – Season 5: A Grim Doctrine - News Blizzard
 
-<sub>`Google News` · 25.11.2026</sub>
+<sub>`Google News` · 05.10.2026</sub>
 
-### [Overwatch OWCS World Finals Cheer Event Offers 10 Esports Loot Boxes - Happy Gamer](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXJ2M1hSQkJCczlRZ1ZOVDE4eWZuNktqUkp4Ym56Mnc0eWJaa2VoY2lPbEczMEFFS1NJWklJRy14c0k5T0RmT0twc2NTMkVZQmF1TXBvQ2dXTS13d3NfcFpzaHJvOWMwV0NJbFJhZ0Ywc0wwRTdsaTUtVGRvd09EcHRac3E?oc=5)
-Overwatch OWCS World Finals Cheer Event Offers 10 Esports Loot Boxes Happy Gamer
+## 📰 Прочие новости
 
-<sub>`Google News` · 25.11.2026</sub>
-
-### [OWCS World Finals 2026 schedule, matches, teams, results - Esports.gg](https://news.google.com/rss/articles/CBMikgFBVV95cUxQblRrdEhib1JLVDFqeUtxYnozckQ0TE1zVVV5VkNHMjh6REhyMUtPdlhQalZ5cTJabHFGNF9zZUZWUkozREppUE9pUzFFbVdIX2JURFQ2RW1wazFiQmtRUGlYcUVlWlNITDR4eXdQQm1WdnhpMVF1ZG1ab2FiSWQ4VDF4UFJMUjJOMFRxOERrY0xQQQ?oc=5)
-OWCS World Finals 2026 schedule, matches, teams, results Esports.gg
-
-<sub>`Google News` · 25.11.2026</sub>
-
-### [Overwatch gets OWCS World Finals event: All cheer rally rewards (2026) - Esports.gg](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU08wbDZVa3BTUGFEWGt4Vm5aVHR3cEpWUjNNSUkySy1FRHREcU9WakZRTURjNlJTQWZsRFhGd1ZBT1RnVGZObFUxUm5yZlpTaldPOU00c0hCd183N0pkU0Z4cllqaHRBYVdreWVlRjJWdmtmVkdMVEJKR1ZmZVNJM0hYcHU0eG90WTZlM3hWNG90dW42ckdsZXRtYnJqS0Z4Q2hEUQ?oc=5)
-Overwatch gets OWCS World Finals event: All cheer rally rewards (2026) Esports.gg
+### [Capcom is officially killing its 'Jurassic World meets Overwatch' multiplayer shooter - Polygon.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5SdnRZd1pGZnJGYzRQc3dyZ0RWMGc1VFoyR1RrNkxRaEtNX2FEMFpWa3lnLUZOYmk3SmlSY2RRa1l5Tl95LWpVOFhaRF9xN2I5M0RsVUFHNndhNndDbHAzVnZqU2JqTEZxdTJocw?oc=5)
+Capcom is officially killing its 'Jurassic World meets Overwatch' multiplayer shooter Polygon.com
 
 <sub>`Google News` · 25.11.2026</sub>
 
