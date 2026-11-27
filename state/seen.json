@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-26T16:33:57Z",
+ "last_run": "2026-11-27T01:33:46Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -695,6 +695,11 @@
    "src": "googlenews",
    "t": "2026-11-21T14:23:39Z",
    "title": "Overwatch 2 Spotlight: A New Era of Innovation and Excitement - Blizzard"
+  },
+  "googlenews:21d0e61e3b1f": {
+   "src": "googlenews",
+   "t": "2026-11-27T01:33:46Z",
+   "title": "Director’s Take: 5v5 and 6v6, Better Together — Overwatch 2 - Blizzard News"
   },
   "googlenews:21e8f708c5e5": {
    "src": "googlenews",
