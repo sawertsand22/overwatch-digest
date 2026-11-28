@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-28T01:14:00Z",
+ "last_run": "2026-11-28T15:13:25Z",
  "seen": {
   "blizzard:23784372": {
    "src": "blizzard_ru",
@@ -1296,6 +1296,11 @@
    "t": "2026-11-03T05:27:57Z",
    "title": "Overwatch 2 Is Done As Title Returns To Being Just Overwatch - Bleeding Cool News"
   },
+  "googlenews:91deacabf091": {
+   "src": "googlenews",
+   "t": "2026-11-28T15:13:25Z",
+   "title": "Overwatch ends support for its best mode, Stadium - Polygon.com"
+  },
   "googlenews:920529e2b744": {
    "src": "googlenews",
    "t": "2026-11-21T14:23:39Z",
@@ -1495,6 +1500,11 @@
    "src": "googlenews",
    "t": "2026-11-13T23:21:50Z",
    "title": "Fortnite x Overwatch Leak: Kiriko and Widowmaker or Juno Skins - EGamersWorld"
+  },
+  "googlenews:aaf9c21c74ff": {
+   "src": "googlenews",
+   "t": "2026-11-28T15:13:25Z",
+   "title": "Yearly Recall: 2025 and Beyond — Overwatch 2 — Blizzard News - Blizzard News"
   },
   "googlenews:ab86962fe265": {
    "src": "googlenews",
